@@ -4,10 +4,6 @@
 
 # 群典 ── 無限分岐教・再建本文
 
-> **これは創作です。** 実在の宗教・団体・人物・事件とは一切関係ありません。カルトの手口を解剖するために書かれた、架空の宗教文書のパロディです。信者募集も布教もしていません。
->
-> **This is fiction.** A satirical reconstruction of a scripture belonging to a cult that does not exist. No real religion, organisation, person, or event is depicted. It exists to take apart how cult texts work — not to recruit anyone.
-
 ---
 
 ## これは何か
