@@ -4,7 +4,7 @@
 
 # 群典 ── 無限分岐教・再建本文
 
-**八十二の文書。約八十五万字。**
+**百二十の文書。約百五万字。**
 
 ---
 
@@ -143,6 +143,77 @@
 
 - [讃歌集](hymns/hymns.md) ── 五篇
 - [手遊び歌集](hymns/tehodoki.md) ── 子供の歌
+
+## 受容　読まれたあと
+
+- [週刊誌の記事](reception/1990s_magazine.md) ── 1990年代、嘲笑と恐怖
+- [文庫版あとがき](reception/paperback_afterword.md) ── 2000年代、売るための悔恨
+- [ブログ](reception/blog_2010s.md) ── 2010年代、三つの事実誤認
+- [スレッド](reception/thread_2020s.md) ── 断片化した読解
+- [論文要旨](reception/academic.md) ── 要約という罪
+
+## 学習　教えるための道具
+
+- [入門講座](study/intro_text.md) ── 第一課で出口を塞ぐ
+- [読解問題](study/worksheet.md) ── 正答が一つの語彙に収束する
+- [用語カード](study/flashcards.md) ── 五十枚
+- [講師用マニュアル](study/instructor_manual.md) ── 教える者を教育する
+
+## 子供
+
+- [作文](children/essay.md) ── わたしの家族
+- [手紙](children/letter.md) ── 会わないための技術
+- [歌](children/song.md) ── 三番で変わる
+- [生育記録](children/record.md) ── 愛の形式をした管理
+
+## 宣伝
+
+- [漫画脚本](propaganda/manga_script.md) ── 四コマ三本
+- [アニメ企画書](propaganda/anime_treatment.md) ── 教義の輸送手段
+- [ポスター文案](propaganda/poster.md) ── 十種、日付は空欄
+- [新聞広告](propaganda/newspaper_ad.md) ── 校正は最も正直な読者
+
+## 註釈　三代の読み
+
+- [第一世代](scholia/gen1.md) ── 敬虔
+- [第二世代](scholia/gen2.md) ── 距離
+- [第三世代](scholia/gen3.md) ── 予言として読む
+- [論争](scholia/dispute.md) ── 互いに「要約している」と非難する
+
+## 偽書
+
+- [断片](forgery/fragment.md) ── 統率者が謝った、という一節
+- [鑑定](forgery/analysis.md) ── 紙・墨・筆蹟・語彙
+- [擁護](forgery/defense.md) ── 「効くなら同じ」
+
+## 場所
+
+- [間取り](geography/floorplan.md) ── 教義の身体
+- [部屋の目録](geography/rooms.md) ── 鍵の一覧は権力の一覧
+- [移転](geography/moves.md) ── 記憶の断絶を作る
+
+## 夢
+
+- [統率者の夢](dreams/leader.md) ── 責任を免れる場所
+- [解夢の規則](dreams/rules.md) ── 夢を予定表に変える
+- [信者の夢](dreams/member.md) ── 共有された夢は証拠になる
+
+## 法
+
+- [訴状](legal/complaint.md) ── 怒りを要件に翻訳する
+- [和解案](legal/settlement.md) ── 記憶を取引する
+- [判決](legal/judgment.md) ── 一つの読み方を強制する
+
+## 歌
+
+- [葬送歌](hymns2/funeral_song.md) ── 歌えない歌
+- [労働歌](hymns2/labour_song.md) ── 労働を儀式に変える
+
+## 最後
+
+- [遺言](last/will.md) ── 解釈の余地
+- [編纂者の正体](last/editor_identity.md) ── 三人の候補、決めない
+- [最終頁](last/final_page.md) ── 余白は最も長い文である
 
 ## 付録
 
