@@ -4,7 +4,7 @@
 
 # 群典 ── 無限分岐教・再建本文
 
-**百二十の文書。約百五万字。**
+**百六十四の文書。約百二十七万字。**
 
 ---
 
@@ -73,6 +73,7 @@
 
 - [解説](commentary/introduction.md) ── この文書の読み方
 - [読書案内](commentary/reading_guide.md) ── **先に読む**
+- [読書順序](commentary/reading_order.md) ── 五つの入口
 - [用語集](commentary/glossary.md) ── 教団語と現代語
 - [年表](commentary/chronology.md) ── 甲乙二本、食い違うまま
 - [伝承史](commentary/transmission.md) ── 写本はどう壊れたか
@@ -214,6 +215,100 @@
 - [遺言](last/will.md) ── 解釈の余地
 - [編纂者の正体](last/editor_identity.md) ── 三人の候補、決めない
 - [最終頁](last/final_page.md) ── 余白は最も長い文である
+
+## 法廷
+
+- [傍聴メモ](trial/notes.md) ── 被告人の後ろ姿
+- [被告人質問](trial/defendant.md) ── 三度繰り返される質問
+- [最終弁論](trial/closing.md) ── 代読される言葉
+- [会見](trial/presser.md) ── 判決の要約
+
+## 学者
+
+- [往復一](scholar/letters01.md) ── 最初の接触
+- [往復二](scholar/letters02.md) ── 資料の提供
+- [往復三](scholar/letters03.md) ── 謝礼
+- [最後の手紙](scholar/last.md) ── 返事のない宛先
+
+## 放送
+
+- [ラジオ脚本](radio/script.md) ── 声だけで教義を運ぶ
+- [音響表](radio/sound.md) ── 録音された拍手
+
+## 手記
+
+- [日記・第一年](memoir/year1.md) ── 最初は興奮
+- [日記・第三年](memoir/year3.md) ── 日付が飛ぶ
+- [最後の頁](memoir/last.md) ── 白紙の前の一行
+
+## 録音
+
+- [学習会・勧誘](transcripts/session1.md)
+- [学習会・問い返し](transcripts/session2.md) ── 答えない技術
+- [学習会・畳み](transcripts/session3.md) ── 同意は要約への返礼
+
+## 掲示
+
+- [規則](bulletin/rules.md)
+- [勤務](bulletin/shifts.md) ── 空欄が三つ
+- [表彰と懲罰](bulletin/praise_punish.md) ── 同じ名が両欄に
+
+## 写真
+
+- [草創](photographs/founders.md) ── 説明だけが残る
+- [部屋](photographs/rooms.md) ── 教義の生活水準
+- [最後の集合写真](photographs/last.md) ── 不在の数
+
+## 百科事典
+
+- [第一版](encyclopedia/v1.md) ── 同時代
+- [第二版](encyclopedia/v2.md) ── 事件後
+- [第三版](encyclopedia/v3.md) ── 現在
+
+## 死亡記事
+
+- [会員](obituary/member.md) ── 死因を書かない
+- [外部紙](obituary/outside.md) ── 語彙の翻訳
+
+## 遺族
+
+- [会報](bereaved/newsletter.md) ── 悲しみを手続に変える
+- [手紙](bereaved/letter.md) ── 返事のない質問
+
+## 占い
+
+- [方法](divination/method.md) ── 分岐の籤
+- [記録](divination/records.md) ── 決定は常に籤と同じ
+
+## 日課
+
+- [一日](schedule/daily.md) ── 五分単位
+- [一週](schedule/weekly.md) ── 休みも業
+
+## 倉庫
+
+- [目録](inventory/warehouse.md)
+- [廃棄](inventory/disposal.md) ── 検閲の記録
+
+## 翻訳
+
+- [英訳の一章](translation/chapter.md) ── 訳せない語
+- [訳者註](translation/notes.md) ── 忠実な裏切り
+
+## 音信不通
+
+- [記録](missing/log.md) ── 行方不明を事務にする
+- [捜索](missing/search.md) ── 探した証拠
+
+## 賞賛
+
+- [台本](praise/script.md) ── 具体的な褒め方
+- [あと](praise/after.md) ── 賞賛は罰より長く残る
+
+## 比較
+
+- [比較表](comparison/chart.md) ── 比較しないための表
+- [註](comparison/commentary.md) ── 軸を決めた者が支配する
 
 ## 付録
 
