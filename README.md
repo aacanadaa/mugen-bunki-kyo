@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://count.getloli.com/get/@mugen-bunki-kyo?theme=moebooru" alt="訪問者数" />
+</p>
+
 # 群典 ── 無限分岐教・再建本文
 
 > **これは創作です。** 実在の宗教・団体・人物・事件とは一切関係ありません。カルトの手口を解剖するために書かれた、架空の宗教文書のパロディです。信者募集も布教もしていません。
