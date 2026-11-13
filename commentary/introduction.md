@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百八十九、文書 千五百六十五、約 二百九十四 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百九十四、文書 千六百九、約 三百二 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -183,6 +183,7 @@
 | demolition | 2 |
 | deposit | 5 |
 | design | 4 |
+| destroyed | 8 |
 | dictation | 1 |
 | digital | 10 |
 | digitization | 2 |
@@ -228,6 +229,7 @@
 | fire | 1 |
 | first_year | 7 |
 | followup | 6 |
+| food | 6 |
 | forgery | 3 |
 | forgotten | 6 |
 | funeral3 | 1 |
@@ -276,6 +278,7 @@
 | leader_doubt | 6 |
 | leaving | 7 |
 | lectures | 4 |
+| left | 8 |
 | legal | 3 |
 | legal2 | 3 |
 | legislation | 7 |
@@ -329,7 +332,7 @@
 | newyear | 1 |
 | nextdoor | 1 |
 | nextdoor2 | 1 |
-| numbers | 1 |
+| numbers | 9 |
 | numbers2 | 4 |
 | nursing | 3 |
 | obituary | 2 |
@@ -365,6 +368,7 @@
 | propaganda | 4 |
 | prophecy | 8 |
 | protest | 2 |
+| protocol | 7 |
 | purge | 6 |
 | questions | 7 |
 | quotes | 6 |
@@ -423,6 +427,7 @@
 | sleep | 5 |
 | smell | 2 |
 | songbook | 2 |
+| sound | 7 |
 | sound2 | 4 |
 | sources | 6 |
 | souvenir | 6 |
