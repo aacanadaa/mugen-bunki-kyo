@@ -1,9 +1,9 @@
 ﻿# 群典リポジトリ・再生成スクリプト
 # INDEX.md、語彙索引、README の統計行、解説の統計ブロックを一括で更新する。
-# 使い方:  pwsh -File _tools/rebuild.ps1
+# 使い方:  powershell -File rebuild.ps1
 
 $ErrorActionPreference = 'Stop'
-$Base = Split-Path -Parent (Split-Path -Parent $MyInvocation.MyCommand.Path)
+$Base = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location $Base
 
 function ConvertTo-KanjiSmall([int]$n) {
@@ -32,7 +32,7 @@ $rootReadme = Join-Path $Base 'README.md'
 $docs = Get-ChildItem -Path $Base -Recurse -Filter *.md |
     Where-Object { $_.FullName -ne $rootIndex -and $_.FullName -ne $rootReadme }
 $mdCount = $docs.Count
-$sectionCount = (Get-ChildItem -Path $Base -Directory | Where-Object { $_.Name -ne '_tools' }).Count
+$sectionCount = (Get-ChildItem -Path $Base -Directory | Where-Object { $_.Name -ne '.git' }).Count
 $chars = ($docs | ForEach-Object { (Get-Content $_.FullName -Raw -Encoding UTF8).Length } | Measure-Object -Sum).Sum
 $man = [int][math]::Round($chars / 10000.0)
 
@@ -50,7 +50,7 @@ $bySec = $rows | Group-Object Section | Sort-Object Name
 
 $L = New-Object System.Collections.Generic.List[string]
 $L.Add('# 総目録'); $L.Add('')
-$L.Add("> 全 $($rows.Count) 文書の一覧。各文書の最初の見出しを題とした。この頁は ``_tools/rebuild.ps1`` が生成する。"); $L.Add('')
+$L.Add("> 全 $($rows.Count) 文書の一覧。各文書の最初の見出しを題とした。この頁は ``rebuild.ps1`` が生成する。"); $L.Add('')
 $L.Add('## 節の一覧'); $L.Add('')
 $L.Add('| 節 | 数 |'); $L.Add('|---|---|')
 foreach ($g in $bySec) { $L.Add("| $($g.Name) | $($g.Count) |") }
@@ -78,7 +78,7 @@ $crows = foreach ($t in $terms) {
 }
 $C = New-Object System.Collections.Generic.List[string]
 $C.Add('# 付録五　語彙索引'); $C.Add('')
-$C.Add('> 各語が、どの文書に現れるか。出現回数の多い順。この頁は ``_tools/rebuild.ps1`` が生成する。'); $C.Add('')
+$C.Add('> 各語が、どの文書に現れるか。出現回数の多い順。この頁は `rebuild.ps1` が生成する。'); $C.Add('')
 $C.Add('| 語 | 計 | 最も多く現れる文書 |'); $C.Add('|---|---|---|')
 foreach ($r in $crows) {
     $links = ($r.Top | ForEach-Object { "[$(($_.Path -split '/')[-1] -replace '\.md$','')](../$($_.Path))（$($_.N)）" }) -join '、'
