@@ -91,11 +91,12 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百二、文書 千三十七、約 百九十八 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百九、文書 千八十一、約 二百七 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
 | abroad | 3 |
+| after_quiet | 6 |
 | after_reading | 6 |
 | aftermath | 3 |
 | alphabet | 1 |
@@ -193,6 +194,7 @@
 | exam2 | 2 |
 | exile | 6 |
 | family | 2 |
+| fanwork | 7 |
 | faq_after | 2 |
 | farewell | 6 |
 | farm | 2 |
@@ -217,6 +219,7 @@
 | hymnal | 1 |
 | hymns | 2 |
 | hymns2 | 2 |
+| imitation | 6 |
 | imprint | 7 |
 | indexes | 5 |
 | influence | 3 |
@@ -275,6 +278,7 @@
 | names | 2 |
 | naming2 | 2 |
 | narrative | 5 |
+| neo | 8 |
 | newyear | 1 |
 | nextdoor | 1 |
 | nextdoor2 | 1 |
@@ -351,6 +355,7 @@
 | smell | 2 |
 | songbook | 2 |
 | sound2 | 4 |
+| souvenir | 6 |
 | space | 2 |
 | sports | 3 |
 | stage | 3 |
@@ -371,9 +376,11 @@
 | testimony | 7 |
 | testimony_prep | 3 |
 | tests | 3 |
+| textbook2 | 6 |
 | textual | 4 |
 | time | 2 |
 | touch | 2 |
+| tourism | 5 |
 | toys | 7 |
 | traces | 6 |
 | transcripts | 3 |
