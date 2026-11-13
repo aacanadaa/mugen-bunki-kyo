@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百九十八、文書 千六百五十五、約 三百十 万字。以下は生成時点の集計である。
+**現在の構成**　節 四百四、文書 千六百九十九、約 三百十八 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -135,6 +135,7 @@
 | bulletin | 3 |
 | bundles | 5 |
 | cache | 7 |
+| calendar | 8 |
 | calendar2 | 2 |
 | calendar3 | 2 |
 | canon | 18 |
@@ -149,6 +150,7 @@
 | children | 5 |
 | children_questions | 6 |
 | childrensbook | 2 |
+| chronology | 7 |
 | cipher | 4 |
 | citation | 1 |
 | classifieds | 5 |
@@ -367,6 +369,7 @@
 | praise | 2 |
 | press | 4 |
 | press_guide | 6 |
+| prohibited | 7 |
 | propaganda | 4 |
 | prophecy | 8 |
 | protest | 2 |
@@ -390,6 +393,7 @@
 | regulation | 6 |
 | rehab | 6 |
 | relics | 2 |
+| remnant | 6 |
 | repair | 2 |
 | research | 6 |
 | research_ethics | 6 |
@@ -421,6 +425,7 @@
 | school7 | 4 |
 | seals | 5 |
 | second_founder | 4 |
+| second_generation | 8 |
 | secondgen | 4 |
 | secret | 6 |
 | sermons | 6 |
@@ -475,6 +480,7 @@
 | typo | 1 |
 | unclaimed | 6 |
 | undertaker | 1 |
+| unfinished | 8 |
 | unplaced | 5 |
 | upbringing | 4 |
 | utilities | 2 |
