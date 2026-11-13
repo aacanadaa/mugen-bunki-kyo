@@ -91,12 +91,13 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百六十二、文書 千三百八十九、約 二百六十一 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百七十一、文書 千四百三十三、約 二百七十 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
 | abroad | 3 |
 | address | 5 |
+| advice | 6 |
 | after_quiet | 6 |
 | after_reading | 6 |
 | aftermath | 3 |
@@ -146,6 +147,7 @@
 | childrensbook | 2 |
 | cipher | 4 |
 | citation | 1 |
+| classifieds | 5 |
 | clearing | 6 |
 | colors | 1 |
 | colors2 | 2 |
@@ -157,6 +159,7 @@
 | conference | 2 |
 | confession2 | 5 |
 | constitution | 7 |
+| contest | 4 |
 | contracts | 2 |
 | cookbook | 3 |
 | copy | 8 |
@@ -170,6 +173,7 @@
 | crisis | 6 |
 | critic_timeline | 1 |
 | criticism | 3 |
+| crossword | 4 |
 | daily | 4 |
 | deathbed | 3 |
 | debts | 6 |
@@ -194,6 +198,7 @@
 | duty | 4 |
 | early_warnings | 6 |
 | editions | 8 |
+| editorial | 5 |
 | elderly | 1 |
 | elite | 4 |
 | email | 1 |
@@ -238,6 +243,7 @@
 | history | 4 |
 | hoax | 2 |
 | homework | 5 |
+| horoscope | 5 |
 | hymnal | 1 |
 | hymns | 2 |
 | hymns2 | 2 |
@@ -273,6 +279,7 @@
 | lexical_afterlife | 8 |
 | lexicon | 2 |
 | library | 2 |
+| lifestyle | 5 |
 | lineage | 5 |
 | liturgy | 5 |
 | loyalty | 4 |
@@ -349,6 +356,7 @@
 | purge | 6 |
 | quotes | 6 |
 | radio | 2 |
+| reader_posts | 5 |
 | readers | 6 |
 | readinglist | 1 |
 | reception | 5 |
@@ -418,6 +426,7 @@
 | survivor_lexicon | 7 |
 | switchboard | 2 |
 | sympathisers | 6 |
+| tabloid | 5 |
 | tape_last | 2 |
 | taste | 2 |
 | tax | 2 |
