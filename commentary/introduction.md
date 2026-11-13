@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 二百八十九、文書 九百四十九、約 百八十二 万字。以下は生成時点の集計である。
+**現在の構成**　節 二百九十五、文書 九百九十三、約 百九十 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -128,6 +128,7 @@
 | catechism | 1 |
 | cemetery | 1 |
 | censorship | 2 |
+| census | 8 |
 | charity | 6 |
 | children | 5 |
 | children_questions | 6 |
@@ -144,6 +145,7 @@
 | complaints | 2 |
 | conference | 2 |
 | confession2 | 5 |
+| constitution | 7 |
 | contracts | 2 |
 | cookbook | 3 |
 | correspondence | 6 |
@@ -166,6 +168,7 @@
 | discipline | 7 |
 | dissolution | 3 |
 | divination | 2 |
+| domain | 6 |
 | donation | 1 |
 | dormant | 4 |
 | doubt_admin | 6 |
@@ -252,6 +255,7 @@
 | memory_tools | 6 |
 | merch | 2 |
 | mercy | 2 |
+| merger | 7 |
 | minor | 2 |
 | miracle | 6 |
 | misc | 6 |
@@ -321,6 +325,7 @@
 | rules2 | 2 |
 | rumor | 4 |
 | saints | 4 |
+| scenario | 9 |
 | schedule | 2 |
 | scholar | 4 |
 | scholarship | 5 |
@@ -362,6 +367,7 @@
 | textual | 4 |
 | time | 2 |
 | touch | 2 |
+| toys | 7 |
 | traces | 6 |
 | transcripts | 3 |
 | translation | 2 |
