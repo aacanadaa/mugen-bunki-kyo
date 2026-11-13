@@ -105,7 +105,7 @@ $introPath = Join-Path $Base 'commentary\introduction.md'
 $intro = Get-Content $introPath -Raw -Encoding UTF8
 $sb = New-Object System.Collections.Generic.List[string]
 $sb.Add('<!-- STATS:BEGIN -->')
-$sb.Add("**現在の構成**　節 " + (ConvertTo-Kanji $sectionCount) + "、文書 " + (ConvertTo-Kanji $mdCount) + "、約 " + (ConvertTo-Kanji $man) + " 万字。以下は生成時点の集計である。")
+$sb.Add("**現在の構成**　節 " + (ConvertTo-Kanji $sectionCount) + "、文書 " + (ConvertTo-Kanji $mdCount) + "、約" + (ConvertTo-Kanji $man) + "万字。以下は生成時点の集計である。")
 $sb.Add('')
 $sb.Add('| 節 | 文書 |')
 $sb.Add('|---|---|')

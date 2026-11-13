@@ -1,6 +1,6 @@
 # 総目録
 
-> 全 1699 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
+> 全 1744 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
 
 ## 節の一覧
 
@@ -111,7 +111,7 @@
 | dormant | 4 |
 | doubt_admin | 6 |
 | drafting | 5 |
-| dreams | 8 |
+| dreams | 9 |
 | drill | 1 |
 | duty | 4 |
 | dwellings | 6 |
@@ -179,7 +179,7 @@
 | insurance | 1 |
 | intentions | 5 |
 | intern | 1 |
-| inventory | 3 |
+| inventory | 11 |
 | irregular | 6 |
 | jubilee | 3 |
 | knowledge | 8 |
@@ -211,7 +211,7 @@
 | loyalty | 4 |
 | machine | 8 |
 | magazine | 5 |
-| mail | 2 |
+| mail | 9 |
 | mailorder | 4 |
 | map2 | 2 |
 | margins | 6 |
@@ -265,6 +265,7 @@
 | outside_index | 5 |
 | palimpsest | 6 |
 | parking | 3 |
+| peak | 8 |
 | petty_cash | 1 |
 | phone_voice | 4 |
 | photoessay | 2 |
@@ -291,6 +292,7 @@
 | radio | 2 |
 | reader_posts | 5 |
 | readers | 6 |
+| reading | 7 |
 | readinglist | 1 |
 | reception | 5 |
 | reception2 | 4 |
@@ -303,6 +305,7 @@
 | reform | 7 |
 | regulation | 6 |
 | rehab | 6 |
+| relatives | 7 |
 | relics | 2 |
 | remnant | 6 |
 | repair | 2 |
@@ -398,7 +401,7 @@
 | verdict | 1 |
 | verso | 6 |
 | vestments | 3 |
-| visitors | 4 |
+| visitors | 11 |
 | visitors3 | 5 |
 | voice | 2 |
 | volunteers | 3 |
@@ -1405,7 +1408,8 @@
 |---|---|
 | [dreams/cult.md](dreams/cult.md) | 夢三　教団の夢 |
 | [dreams/judgment.md](dreams/judgment.md) | 夢五　判定 |
-| [dreams/leader.md](dreams/leader.md) | 夢四　統率者の夢 |
+| [dreams/leader.md](dreams/leader.md) | 夢一　統率者の夢 |
+| [dreams/leader_dream.md](dreams/leader_dream.md) | 夢四　統率者の夢 |
 | [dreams/member.md](dreams/member.md) | 夢三　信者の夢 |
 | [dreams/none.md](dreams/none.md) | 夢六　見なくなった者 |
 | [dreams/overview.md](dreams/overview.md) | 夢一　総論 |
@@ -2028,6 +2032,14 @@
 |---|---|
 | [inventory/delivery.md](inventory/delivery.md) | 庫三　配達 |
 | [inventory/disposal.md](inventory/disposal.md) | 庫二　廃棄の記録 |
+| [inventory/disposal_ledger.md](inventory/disposal_ledger.md) | 品七　処分 |
+| [inventory/hall.md](inventory/hall.md) | 品三　広間 |
+| [inventory/kitchen.md](inventory/kitchen.md) | 品二　台所 |
+| [inventory/money.md](inventory/money.md) | 品六　金 |
+| [inventory/overview.md](inventory/overview.md) | 品一　総論 |
+| [inventory/papers.md](inventory/papers.md) | 品五　書類 |
+| [inventory/remaining.md](inventory/remaining.md) | 品八　残った品 |
+| [inventory/upstairs.md](inventory/upstairs.md) | 品四　二階 |
 | [inventory/warehouse.md](inventory/warehouse.md) | 庫一　倉庫の目録 |
 
 ## irregular
@@ -2327,8 +2339,15 @@
 
 | 文書 | 題 |
 |---|---|
+| [mail/address.md](mail/address.md) | 郵七　宛先 |
+| [mail/after.md](mail/after.md) | 郵二　解散後 |
 | [mail/intercept.md](mail/intercept.md) | 郵二　開封 |
+| [mail/last.md](mail/last.md) | 郵六　最後の郵便 |
 | [mail/log.md](mail/log.md) | 郵一　記録 |
+| [mail/opened.md](mail/opened.md) | 郵五　開封 |
+| [mail/overview.md](mail/overview.md) | 郵一　総論 |
+| [mail/returned.md](mail/returned.md) | 郵三　返送 |
+| [mail/unknown.md](mail/unknown.md) | 郵四　差出人不明 |
 
 ## mailorder
 
@@ -2824,6 +2843,19 @@
 | [parking/cars.md](parking/cars.md) | 駐三　車 |
 | [parking/violation.md](parking/violation.md) | 駐二　違反 |
 
+## peak
+
+| 文書 | 題 |
+|---|---|
+| [peak/after.md](peak/after.md) | 峰八　峰の後 |
+| [peak/day.md](peak/day.md) | 峰二　最大の日 |
+| [peak/decline.md](peak/decline.md) | 峰七　減り方 |
+| [peak/growth.md](peak/growth.md) | 峰六　増え方 |
+| [peak/least.md](peak/least.md) | 峰五　最も少なかった年 |
+| [peak/most.md](peak/most.md) | 峰四　最も多かった年 |
+| [peak/numbers.md](peak/numbers.md) | 峰三　数 |
+| [peak/overview.md](peak/overview.md) | 峰一　総論 |
+
 ## petty_cash
 
 | 文書 | 題 |
@@ -3054,6 +3086,18 @@
 | [readers/student.md](readers/student.md) | 読五　学生の質問 |
 | [readers/translator.md](readers/translator.md) | 読四　訳者の質問 |
 
+## reading
+
+| 文書 | 題 |
+|---|---|
+| [reading/early.md](reading/early.md) | 読二　初期 |
+| [reading/fate.md](reading/fate.md) | 読七　本の行方 |
+| [reading/forbidden.md](reading/forbidden.md) | 読四　禁じられた本 |
+| [reading/group.md](reading/group.md) | 読六　読書会 |
+| [reading/late.md](reading/late.md) | 読三　後期 |
+| [reading/overview.md](reading/overview.md) | 読一　総論 |
+| [reading/unread.md](reading/unread.md) | 読五　読まなかった本 |
+
 ## readinglist
 
 | 文書 | 題 |
@@ -3172,6 +3216,18 @@
 | [rehab/family_advice.md](rehab/family_advice.md) | 更五　助言 |
 | [rehab/program.md](rehab/program.md) | 更一　プログラム |
 | [rehab/session.md](rehab/session.md) | 更二　面談 |
+
+## relatives
+
+| 文書 | 題 |
+|---|---|
+| [relatives/after.md](relatives/after.md) | 親七　後 |
+| [relatives/allowed.md](relatives/allowed.md) | 親六　会わせた |
+| [relatives/booklet.md](relatives/booklet.md) | 親二　冊子 |
+| [relatives/denied.md](relatives/denied.md) | 親五　会わせない |
+| [relatives/overview.md](relatives/overview.md) | 親一　総論 |
+| [relatives/questions.md](relatives/questions.md) | 親三　質問 |
+| [relatives/refusal.md](relatives/refusal.md) | 親四　断り方 |
 
 ## relics
 
@@ -4037,10 +4093,17 @@
 
 | 文書 | 題 |
 |---|---|
+| [visitors/accounts.md](visitors/accounts.md) | 客七　客が語ったこと |
 | [visitors/addressbook.md](visitors/addressbook.md) | 来四　住所録 |
+| [visitors/first.md](visitors/first.md) | 客二　最初の客 |
 | [visitors/guestbook.md](visitors/guestbook.md) | 来三　芳名帳 |
+| [visitors/left.md](visitors/left.md) | 客三　来て帰った者 |
 | [visitors/log.md](visitors/log.md) | 訪一　名簿 |
+| [visitors/overview.md](visitors/overview.md) | 客一　総論 |
+| [visitors/record.md](visitors/record.md) | 客六　記録 |
+| [visitors/refusal_record.md](visitors/refusal_record.md) | 客五　断られた者 |
 | [visitors/refused.md](visitors/refused.md) | 訪二　断り |
+| [visitors/stayed.md](visitors/stayed.md) | 客四　来て残った者 |
 
 ## visitors3
 
