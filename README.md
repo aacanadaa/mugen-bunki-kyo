@@ -4,7 +4,7 @@
 
 # 群典 ── 無限分岐教・再建本文
 
-**二百十一の文書。約百五十万字。**
+**二百五十五の文書。約百七十二万字。**
 
 ---
 
@@ -74,6 +74,7 @@
 - [解説](commentary/introduction.md) ── この文書の読み方
 - [読書案内](commentary/reading_guide.md) ── **先に読む**
 - [読書順序](commentary/reading_order.md) ── 五つの入口
+- [あとがき](commentary/afterword.md) ── すべてのあと
 - [用語集](commentary/glossary.md) ── 教団語と現代語
 - [年表](commentary/chronology.md) ── 甲乙二本、食い違うまま
 - [伝承史](commentary/transmission.md) ── 写本はどう壊れたか
@@ -166,6 +167,7 @@
 - [手紙](children/letter.md) ── 会わないための技術
 - [歌](children/song.md) ── 三番で変わる
 - [生育記録](children/record.md) ── 愛の形式をした管理
+- [絵](children/drawing.md) ── 指示された通りに描かれる
 
 ## 宣伝
 
@@ -192,6 +194,7 @@
 - [間取り](geography/floorplan.md) ── 教義の身体
 - [部屋の目録](geography/rooms.md) ── 鍵の一覧は権力の一覧
 - [移転](geography/moves.md) ── 記憶の断絶を作る
+- [音](geography/sound.md) ── 建物の生活の記録
 
 ## 夢
 
@@ -289,6 +292,7 @@
 
 - [目録](inventory/warehouse.md)
 - [廃棄](inventory/disposal.md) ── 検閲の記録
+- [配達](inventory/delivery.md) ── 外と交わす最小の契約
 
 ## 翻訳
 
@@ -316,6 +320,9 @@
 - [証言二](testimony/statement02.md) ── 返してほしい
 - [証言三](testimony/statement03.md) ── 私は知らなかった
 - [読み上げ](testimony/readaloud.md) ── 声の貸与
+- [全記録・一](testimony/full01.md) ── 訂正の多さ
+- [全記録・二](testimony/full02.md) ── 沈黙の長さ
+- [全記録・三](testimony/full03.md) ── 個人的な一言
 
 ## 台所
 
@@ -327,6 +334,8 @@
 
 - [名簿](visitors/log.md) ── 誰が中に入れたか
 - [断り](visitors/refused.md) ── 理由は三種類しかない
+- [芳名帳](visitors/guestbook.md) ── 同じ筆跡
+- [住所録](visitors/addressbook.md) ── 赤線は削除の予告
 
 ## 二世
 
@@ -379,6 +388,8 @@
 
 - [日誌](duty/log.md) ── 些事が体温
 - [事故](duty/incidents.md) ── 記録は予防ではない
+- [夜勤](duty/night.md) ── 無人時間
+- [天気](duty/weather.md) ── 教義に関係しない唯一の記録
 
 ## 苦情
 
@@ -425,6 +436,80 @@
 - [議事](reunion/minutes.md) ── 証言の交換
 - [あと](reunion/after.md) ── 解散しないための集い
 
+## 写真集
+
+- [構成](photoessay/sequence.md) ── 頁割りだけがある
+- [キャプション](photoessay/captions.md) ── 写真のない説明
+
+## 絵本
+
+- [本文](childrensbook/text.md) ── 見開き十二
+- [あとがき](childrensbook/afterword.md) ── 使用説明書
+
+## 介護
+
+- [インタビュー](nursing/interview.md) ── 三度同じ話
+- [聞き手のメモ](nursing/notes.md) ── 記録しない選択
+- [施設の記録](nursing/record.md) ── 制度は関心を持たない
+
+## 蔵書
+
+- [目録](library/catalogue.md) ── 組織の無意識
+- [貸出](library/borrowed.md) ── 返さない本は読んだ本
+
+## 物
+
+- [ミシン](objects/sewing_machine.md) ── 一つの物の伝記
+- [湯沸かし器](objects/water_heater.md) ── 三度の修理
+
+## 本文
+
+- [清書](textual/fair_copy.md) ── 一字の違い
+- [変更](textual/changes.md) ── 語の変更は教義の変更
+- [修正一](textual/amendment1.md)
+- [修正二](textual/amendment2.md) ── 第一を取り消す
+
+## 未開封
+
+- [箱](letters_unopened/box.md) ── 十年後に開けた
+- [一通](letters_unopened/one.md) ── 届かなかった手紙
+
+## 隣家
+
+- [日記](nextdoor/diary.md) ── 最も近い読者
+
+## 監査
+
+- [資産](audit/assets.md) ── 教義より長く残る
+- [負債](audit/debts.md) ── 関係の記録
+
+## 後継
+
+- [手紙](successor/letter.md) ── 継がない決断
+- [辞退](successor/refusal.md) ── 故人の解釈をめぐる争い
+
+## 最後の日
+
+- [朝](lastday/morning.md) ── 特別な日ではない
+- [夜](lastday/evening.md) ── 最後に残る者は名もない
+
+## 段ボール
+
+- [目録](archive/box_list.md) ── 組織の残余
+- [無くなったもの](archive/missing_items.md) ── 最も正確な目録
+
+## 受容二
+
+- [ポッドキャスト](reception2/podcast.md) ── 軽さが恐怖を遠ざける
+- [訂正](reception2/correction.md) ── 返事は来ない
+- [星一つ](reception2/one_star.md) ── 読んでいないレビュー
+- [星五つ](reception2/five_star.md) ── 要約としての賛辞
+
+## 名簿
+
+- [最後の名簿](roster/final.md) ── 印のない名が三つ
+- [数字](roster/statistics.md) ── 合わない合計
+
 ## 付録
 
 - [組織図](appendix/orgchart.md) ── 空席が三つ
@@ -432,6 +517,7 @@
 - [参考文献](appendix/bibliography.md) ── 存在しない書誌
 - [正誤表](appendix/errata.md) ── 訂正が訂正より誤っている
 - [語彙索引](appendix/concordance.md) ── 語を数える
+- [第二の正誤表](appendix/errata2.md) ── 訂正の訂正
 
 ## ライセンス
 
