@@ -1,6 +1,6 @@
 # 総目録
 
-> 全 474 文書の一覧。各文書の最初の見出しを題とした。
+> 全 518 文書の一覧。各文書の最初の見出しを題とした。
 
 ## 節の一覧
 
@@ -21,6 +21,7 @@
 | audit | 2 |
 | audit2 | 2 |
 | bereaved | 2 |
+| bibliography2 | 10 |
 | body | 2 |
 | bulletin | 3 |
 | calendar2 | 2 |
@@ -51,6 +52,7 @@
 | daily | 4 |
 | demolition | 2 |
 | dictation | 1 |
+| digital | 10 |
 | digitization | 2 |
 | dissolution | 3 |
 | divination | 2 |
@@ -58,12 +60,14 @@
 | dreams | 3 |
 | drill | 1 |
 | duty | 4 |
+| editions | 8 |
 | elderly | 1 |
 | email | 1 |
 | employment | 2 |
 | encyclopedia | 3 |
 | ephemera | 3 |
 | epilogue | 6 |
+| events | 5 |
 | exam2 | 2 |
 | family | 2 |
 | faq_after | 2 |
@@ -77,12 +81,14 @@
 | geography | 4 |
 | governance | 4 |
 | grandchildren | 3 |
+| guides | 6 |
 | handwriting | 1 |
 | history | 4 |
 | hoax | 2 |
 | hymnal | 1 |
 | hymns | 2 |
 | hymns2 | 2 |
+| indexes | 5 |
 | insurance | 1 |
 | intern | 1 |
 | inventory | 3 |
@@ -303,6 +309,21 @@
 |---|---|
 | [bereaved/letter.md](bereaved/letter.md) | 遺二　手紙 |
 | [bereaved/newsletter.md](bereaved/newsletter.md) | 遺一　会報 |
+
+## bibliography2
+
+| 文書 | 題 |
+|---|---|
+| [bibliography2/binding.md](bibliography2/binding.md) | 書六　装丁 |
+| [bibliography2/bookplate.md](bibliography2/bookplate.md) | 書八　蔵書印 |
+| [bibliography2/conservation.md](bibliography2/conservation.md) | 書十　修復 |
+| [bibliography2/facsimile.md](bibliography2/facsimile.md) | 書九　複製 |
+| [bibliography2/ink.md](bibliography2/ink.md) | 書五　墨 |
+| [bibliography2/marginal_doodles.md](bibliography2/marginal_doodles.md) | 書七　落書き |
+| [bibliography2/paleography.md](bibliography2/paleography.md) | 書三　筆蹟 |
+| [bibliography2/stemma.md](bibliography2/stemma.md) | 書二　系統 |
+| [bibliography2/variants.md](bibliography2/variants.md) | 書一　異同 |
+| [bibliography2/watermark.md](bibliography2/watermark.md) | 書四　簀 |
 
 ## body
 
@@ -551,6 +572,21 @@
 |---|---|
 | [dictation/letters.md](dictation/letters.md) | 口一　口述 |
 
+## digital
+
+| 文書 | 題 |
+|---|---|
+| [digital/annotation_guidelines.md](digital/annotation_guidelines.md) | デ九　方針 |
+| [digital/api_doc.md](digital/api_doc.md) | デ十　提供 |
+| [digital/data_dictionary.md](digital/data_dictionary.md) | デ四　項目定義 |
+| [digital/dataset_readme.md](digital/dataset_readme.md) | デ五　説明 |
+| [digital/grant_report.md](digital/grant_report.md) | デ十二　報告 |
+| [digital/ocr_errors.md](digital/ocr_errors.md) | デ七　誤認 |
+| [digital/review_digital.md](digital/review_digital.md) | デ十一　書評 |
+| [digital/scraper_log.md](digital/scraper_log.md) | デ六　収集 |
+| [digital/tei_notes.md](digital/tei_notes.md) | デ三　符号化 |
+| [digital/transcription_rules.md](digital/transcription_rules.md) | デ八　規約 |
+
 ## digitization
 
 | 文書 | 題 |
@@ -602,6 +638,19 @@
 | [duty/night.md](duty/night.md) | 直三　夜勤 |
 | [duty/weather.md](duty/weather.md) | 直四　天気 |
 
+## editions
+
+| 文書 | 題 |
+|---|---|
+| [editions/audiobook_script.md](editions/audiobook_script.md) | 版三　朗読 |
+| [editions/braille.md](editions/braille.md) | 版五　点字 |
+| [editions/childrens_edition.md](editions/childrens_edition.md) | 版七　子ども版 |
+| [editions/expurgated.md](editions/expurgated.md) | 版一　削除版 |
+| [editions/large_print.md](editions/large_print.md) | 版六　大活字 |
+| [editions/narrator_notes.md](editions/narrator_notes.md) | 版四　朗読者 |
+| [editions/one_page_summary.md](editions/one_page_summary.md) | 版八　一枚 |
+| [editions/restored.md](editions/restored.md) | 版二　復元版 |
+
 ## elderly
 
 | 文書 | 題 |
@@ -647,6 +696,16 @@
 | [epilogue/obituary_1.md](epilogue/obituary_1.md) | 終三　死亡記事一 |
 | [epilogue/obituary_2.md](epilogue/obituary_2.md) | 終四　死亡記事二 |
 | [epilogue/reunion2.md](epilogue/reunion2.md) | 終六　再会二 |
+
+## events
+
+| 文書 | 題 |
+|---|---|
+| [events/conference_poster.md](events/conference_poster.md) | 催一　ポスター |
+| [events/deposit_agreement.md](events/deposit_agreement.md) | 催五　寄託 |
+| [events/hackathon.md](events/hackathon.md) | 催三　共同作業 |
+| [events/sealed_box.md](events/sealed_box.md) | 催四　封筒 |
+| [events/workshop.md](events/workshop.md) | 催二　部会 |
 
 ## exam2
 
@@ -741,6 +800,17 @@
 | [grandchildren/interview.md](grandchildren/interview.md) | 孫三　取材 |
 | [grandchildren/letter.md](grandchildren/letter.md) | 孫二　手紙 |
 
+## guides
+
+| 文書 | 題 |
+|---|---|
+| [guides/audio_guide.md](guides/audio_guide.md) | 案二　音声案内 |
+| [guides/letter_to_future.md](guides/letter_to_future.md) | 案六　手紙 |
+| [guides/theatre_program.md](guides/theatre_program.md) | 案一　上演 |
+| [guides/time_capsule.md](guides/time_capsule.md) | 案五　カプセル |
+| [guides/walking_tour_1.md](guides/walking_tour_1.md) | 案三　巡り一 |
+| [guides/walking_tour_2.md](guides/walking_tour_2.md) | 案四　巡り二 |
+
 ## handwriting
 
 | 文書 | 題 |
@@ -782,6 +852,16 @@
 |---|---|
 | [hymns2/funeral_song.md](hymns2/funeral_song.md) | 歌一　葬送歌 |
 | [hymns2/labour_song.md](hymns2/labour_song.md) | 歌二　労働歌 |
+
+## indexes
+
+| 文書 | 題 |
+|---|---|
+| [indexes/annotated_bibliography.md](indexes/annotated_bibliography.md) | 索三　解題 |
+| [indexes/concordance_notes.md](indexes/concordance_notes.md) | 索四　索引の註 |
+| [indexes/name_index.md](indexes/name_index.md) | 索五　人名索引 |
+| [indexes/place_index.md](indexes/place_index.md) | 索六　地名索引 |
+| [indexes/subject_index2.md](indexes/subject_index2.md) | 索二　件名索引二 |
 
 ## insurance
 
