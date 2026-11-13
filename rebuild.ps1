@@ -96,8 +96,8 @@ $C.Add('**註三**　「完了」は、この教団では最も強い否定語�
 # ---- 3. README の統計行 ---------------------------------------------------
 $readme = Get-Content $rootReadme -Raw -Encoding UTF8
 $line = "**" + (ConvertTo-Kanji $mdCount) + "の文書。" + (ConvertTo-Kanji $sectionCount) + "の節。約" + (ConvertTo-Kanji $man) + "万字。**"
-$readme = [regex]::Replace($readme, '(?m)^\*\*[^\r\n]*の文書。[^\r\n]*\*\*[ \t]*$', $line, 1)
-$readme = [regex]::Replace($readme, '(?m)^- \[総目録\]\(INDEX\.md\)[^\r\n]*$', "- [総目録](INDEX.md) ── " + (ConvertTo-Kanji $mdCount) + "の文書すべて", 1)
+$readme = [regex]::Replace($readme, '(?m)^\*\*[^\r\n]*の文書。[^\r\n]*\*\*[ \t]*\r?$', $line, 1)
+$readme = [regex]::Replace($readme, '(?m)^- \[総目録\]\(INDEX\.md\)[^\r\n]*\r?$', "- [総目録](INDEX.md) ── " + (ConvertTo-Kanji $mdCount) + "の文書すべて", 1)
 [System.IO.File]::WriteAllText($rootReadme, $readme, (New-Object System.Text.UTF8Encoding($false)))
 
 # ---- 4. 解説の統計ブロック ------------------------------------------------

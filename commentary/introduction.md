@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 二百七十四、文書 八百六十、約 百六十六 万字。以下は生成時点の集計である。
+**現在の構成**　節 二百八十二、文書 九百五、約 百七十四 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -110,6 +110,7 @@
 | auction | 1 |
 | audit | 2 |
 | audit2 | 2 |
+| band | 4 |
 | bereaved | 2 |
 | bibliography2 | 10 |
 | birth | 5 |
@@ -164,6 +165,8 @@
 | dissolution | 3 |
 | divination | 2 |
 | donation | 1 |
+| dormant | 4 |
+| doubt_admin | 6 |
 | dreams | 3 |
 | drill | 1 |
 | duty | 4 |
@@ -209,6 +212,7 @@
 | imprint | 7 |
 | indexes | 5 |
 | influence | 3 |
+| inner_doubt | 6 |
 | insurance | 1 |
 | intern | 1 |
 | inventory | 3 |
@@ -219,6 +223,7 @@
 | lastday | 2 |
 | latecomers | 4 |
 | laundry | 1 |
+| leader_doubt | 6 |
 | lectures | 4 |
 | legal | 3 |
 | legal2 | 3 |
@@ -330,6 +335,8 @@
 | space | 2 |
 | sports | 3 |
 | stage | 3 |
+| street | 6 |
+| street_memory | 7 |
 | study | 4 |
 | styleguide | 2 |
 | subject_index | 1 |
@@ -337,6 +344,7 @@
 | summary | 2 |
 | surveillance2 | 5 |
 | switchboard | 2 |
+| sympathisers | 6 |
 | tape_last | 2 |
 | taste | 2 |
 | tax | 2 |
