@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百五十、文書 千三百一、約 二百四十六 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百五十七、文書 千三百四十五、約 二百五十四 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -199,10 +199,12 @@
 | encyclopedia | 3 |
 | ephemera | 3 |
 | epilogue | 6 |
+| error_taxonomy | 6 |
 | events | 5 |
 | evidence | 3 |
 | exam2 | 2 |
 | exile | 6 |
+| failure_modes | 6 |
 | family | 2 |
 | fanwork | 7 |
 | faq_after | 2 |
@@ -212,6 +214,7 @@
 | findingaid | 2 |
 | fire | 1 |
 | first_year | 7 |
+| followup | 6 |
 | forgery | 3 |
 | forgotten | 6 |
 | funeral3 | 1 |
@@ -254,6 +257,7 @@
 | latecomers | 4 |
 | laundry | 1 |
 | leader_doubt | 6 |
+| leaving | 7 |
 | lectures | 4 |
 | legal | 3 |
 | legal2 | 3 |
@@ -333,6 +337,7 @@
 | pr | 2 |
 | praise | 2 |
 | press | 4 |
+| press_guide | 6 |
 | propaganda | 4 |
 | prophecy | 8 |
 | protest | 2 |
@@ -354,6 +359,7 @@
 | relics | 2 |
 | repair | 2 |
 | research | 6 |
+| research_ethics | 6 |
 | reservation | 5 |
 | residue | 6 |
 | resolution | 5 |
@@ -404,6 +410,7 @@
 | successor | 2 |
 | summary | 2 |
 | surveillance2 | 5 |
+| survivor_lexicon | 7 |
 | switchboard | 2 |
 | sympathisers | 6 |
 | tape_last | 2 |

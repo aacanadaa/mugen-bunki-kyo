@@ -1,6 +1,6 @@
 # 総目録
 
-> 全 1301 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
+> 全 1345 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
 
 ## 節の一覧
 
@@ -110,10 +110,12 @@
 | encyclopedia | 3 |
 | ephemera | 3 |
 | epilogue | 6 |
+| error_taxonomy | 6 |
 | events | 5 |
 | evidence | 3 |
 | exam2 | 2 |
 | exile | 6 |
+| failure_modes | 6 |
 | family | 2 |
 | fanwork | 7 |
 | faq_after | 2 |
@@ -123,6 +125,7 @@
 | findingaid | 2 |
 | fire | 1 |
 | first_year | 7 |
+| followup | 6 |
 | forgery | 3 |
 | forgotten | 6 |
 | funeral3 | 1 |
@@ -165,6 +168,7 @@
 | latecomers | 4 |
 | laundry | 1 |
 | leader_doubt | 6 |
+| leaving | 7 |
 | lectures | 4 |
 | legal | 3 |
 | legal2 | 3 |
@@ -244,6 +248,7 @@
 | pr | 2 |
 | praise | 2 |
 | press | 4 |
+| press_guide | 6 |
 | propaganda | 4 |
 | prophecy | 8 |
 | protest | 2 |
@@ -265,6 +270,7 @@
 | relics | 2 |
 | repair | 2 |
 | research | 6 |
+| research_ethics | 6 |
 | reservation | 5 |
 | residue | 6 |
 | resolution | 5 |
@@ -315,6 +321,7 @@
 | successor | 2 |
 | summary | 2 |
 | surveillance2 | 5 |
+| survivor_lexicon | 7 |
 | switchboard | 2 |
 | sympathisers | 6 |
 | tape_last | 2 |
@@ -1278,6 +1285,17 @@
 | [epilogue/obituary_2.md](epilogue/obituary_2.md) | 終四　死亡記事二 |
 | [epilogue/reunion2.md](epilogue/reunion2.md) | 終六　再会二 |
 
+## error_taxonomy
+
+| 文書 | 題 |
+|---|---|
+| [error_taxonomy/attribution.md](error_taxonomy/attribution.md) | 誤十　帰属 |
+| [error_taxonomy/copying.md](error_taxonomy/copying.md) | 誤八　写し |
+| [error_taxonomy/dating.md](error_taxonomy/dating.md) | 誤九　年代 |
+| [error_taxonomy/intentional.md](error_taxonomy/intentional.md) | 誤十二　故意 |
+| [error_taxonomy/translation.md](error_taxonomy/translation.md) | 誤十一　翻訳 |
+| [error_taxonomy/types.md](error_taxonomy/types.md) | 誤七　分類 |
+
 ## events
 
 | 文書 | 題 |
@@ -1313,6 +1331,17 @@
 | [exile/register.md](exile/register.md) | 追二　記録 |
 | [exile/return_request.md](exile/return_request.md) | 追三　申請 |
 | [exile/where.md](exile/where.md) | 追五　先 |
+
+## failure_modes
+
+| 文書 | 題 |
+|---|---|
+| [failure_modes/age.md](failure_modes/age.md) | 敗六　老い |
+| [failure_modes/litigation.md](failure_modes/litigation.md) | 敗五　訴訟 |
+| [failure_modes/money.md](failure_modes/money.md) | 敗一　資金 |
+| [failure_modes/press.md](failure_modes/press.md) | 敗四　報道 |
+| [failure_modes/split.md](failure_modes/split.md) | 敗三　分裂 |
+| [failure_modes/succession.md](failure_modes/succession.md) | 敗二　後継 |
 
 ## family
 
@@ -1389,6 +1418,17 @@
 | [first_year/june.md](first_year/june.md) | 初六　六月 |
 | [first_year/march.md](first_year/march.md) | 初三　三月 |
 | [first_year/may.md](first_year/may.md) | 初五　五月 |
+
+## followup
+
+| 文書 | 題 |
+|---|---|
+| [followup/death.md](followup/death.md) | 追五　死亡 |
+| [followup/memory.md](followup/memory.md) | 追六　記憶 |
+| [followup/ten.md](followup/ten.md) | 追一　十年 |
+| [followup/thirty.md](followup/thirty.md) | 追三　三十年 |
+| [followup/twenty.md](followup/twenty.md) | 追二　二十年 |
+| [followup/whereabouts.md](followup/whereabouts.md) | 追四　消息 |
 
 ## forgery
 
@@ -1757,6 +1797,18 @@
 | [leader_doubt/denial.md](leader_doubt/denial.md) | 疑四　否定 |
 | [leader_doubt/second.md](leader_doubt/second.md) | 疑二　第二の告白 |
 | [leader_doubt/witness.md](leader_doubt/witness.md) | 疑三　証人 |
+
+## leaving
+
+| 文書 | 題 |
+|---|---|
+| [leaving/after.md](leaving/after.md) | 離七　その後 |
+| [leaving/belongings.md](leaving/belongings.md) | 離三　持ち物 |
+| [leaving/contact.md](leaving/contact.md) | 離二　連絡 |
+| [leaving/family.md](leaving/family.md) | 離五　家族 |
+| [leaving/place.md](leaving/place.md) | 離四　居場所 |
+| [leaving/preparation.md](leaving/preparation.md) | 離一　準備 |
+| [leaving/work.md](leaving/work.md) | 離六　仕事 |
 
 ## lectures
 
@@ -2434,6 +2486,17 @@
 | [press/proofing.md](press/proofing.md) | 印四　校正 |
 | [press/runs.md](press/runs.md) | 印二　部数 |
 
+## press_guide
+
+| 文書 | 題 |
+|---|---|
+| [press_guide/after.md](press_guide/after.md) | 報十一　後 |
+| [press_guide/bereaved.md](press_guide/bereaved.md) | 報九　遺族 |
+| [press_guide/correction.md](press_guide/correction.md) | 報十　訂正 |
+| [press_guide/interview.md](press_guide/interview.md) | 報七　取材 |
+| [press_guide/photos.md](press_guide/photos.md) | 報八　写真 |
+| [press_guide/terms.md](press_guide/terms.md) | 報六　用語 |
+
 ## propaganda
 
 | 文書 | 題 |
@@ -2635,6 +2698,17 @@
 | [research/peer_review.md](research/peer_review.md) | 研六　査読 |
 | [research/textbook.md](research/textbook.md) | 研三　教科書 |
 | [research/thesis.md](research/thesis.md) | 研一　要旨 |
+
+## research_ethics
+
+| 文書 | 題 |
+|---|---|
+| [research_ethics/anonymity.md](research_ethics/anonymity.md) | 倫二　匿名 |
+| [research_ethics/consent.md](research_ethics/consent.md) | 倫一　同意 |
+| [research_ethics/harm.md](research_ethics/harm.md) | 倫三　危険 |
+| [research_ethics/interest.md](research_ethics/interest.md) | 倫四　利益 |
+| [research_ethics/preservation.md](research_ethics/preservation.md) | 倫六　保存 |
+| [research_ethics/publication.md](research_ethics/publication.md) | 倫五　公開 |
 
 ## reservation
 
@@ -3070,6 +3144,18 @@
 | [surveillance2/form.md](surveillance2/form.md) | 監二　書式 |
 | [surveillance2/informant.md](surveillance2/informant.md) | 監三　密告 |
 | [surveillance2/silent.md](surveillance2/silent.md) | 監四　報告しない者 |
+
+## survivor_lexicon
+
+| 文書 | 題 |
+|---|---|
+| [survivor_lexicon/bunki.md](survivor_lexicon/bunki.md) | 生一　分岐 |
+| [survivor_lexicon/koe.md](survivor_lexicon/koe.md) | 生五　声 |
+| [survivor_lexicon/kudoku.md](survivor_lexicon/kudoku.md) | 生三　功徳 |
+| [survivor_lexicon/mado.md](survivor_lexicon/mado.md) | 生四　窓 |
+| [survivor_lexicon/nakama.md](survivor_lexicon/nakama.md) | 生六　仲間 |
+| [survivor_lexicon/owaru.md](survivor_lexicon/owaru.md) | 生七　終わる |
+| [survivor_lexicon/tatamu.md](survivor_lexicon/tatamu.md) | 生二　畳む |
 
 ## switchboard
 
