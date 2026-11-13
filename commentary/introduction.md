@@ -91,11 +91,12 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 二百九十五、文書 九百九十三、約 百九十 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百二、文書 千三十七、約 百九十八 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
 | abroad | 3 |
+| after_reading | 6 |
 | aftermath | 3 |
 | alphabet | 1 |
 | animals | 2 |
@@ -148,6 +149,7 @@
 | constitution | 7 |
 | contracts | 2 |
 | cookbook | 3 |
+| copy | 8 |
 | correspondence | 6 |
 | correspondence2 | 2 |
 | counseling | 3 |
@@ -166,6 +168,7 @@
 | digitization | 2 |
 | direction | 2 |
 | discipline | 7 |
+| discovery | 6 |
 | dissolution | 3 |
 | divination | 2 |
 | domain | 6 |
@@ -247,6 +250,7 @@
 | mail | 2 |
 | mailorder | 4 |
 | map2 | 2 |
+| margins | 6 |
 | marriage | 6 |
 | media2 | 2 |
 | membership | 3 |
@@ -263,6 +267,7 @@
 | misc3 | 4 |
 | misc4 | 3 |
 | misc5 | 3 |
+| misreading | 6 |
 | missing | 2 |
 | mistakes | 1 |
 | museum | 2 |
@@ -280,6 +285,7 @@
 | objects | 2 |
 | office | 5 |
 | opposition | 4 |
+| oral | 7 |
 | ordeal | 6 |
 | outside_index | 5 |
 | petty_cash | 1 |
@@ -314,6 +320,7 @@
 | relics | 2 |
 | repair | 2 |
 | research | 6 |
+| reservation | 5 |
 | restaurant | 2 |
 | retreat | 6 |
 | return | 6 |

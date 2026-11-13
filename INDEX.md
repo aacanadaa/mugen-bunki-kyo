@@ -1,12 +1,13 @@
 # 総目録
 
-> 全 993 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
+> 全 1037 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
 
 ## 節の一覧
 
 | 節 | 数 |
 |---|---|
 | abroad | 3 |
+| after_reading | 6 |
 | aftermath | 3 |
 | alphabet | 1 |
 | animals | 2 |
@@ -59,6 +60,7 @@
 | constitution | 7 |
 | contracts | 2 |
 | cookbook | 3 |
+| copy | 8 |
 | correspondence | 6 |
 | correspondence2 | 2 |
 | counseling | 3 |
@@ -77,6 +79,7 @@
 | digitization | 2 |
 | direction | 2 |
 | discipline | 7 |
+| discovery | 6 |
 | dissolution | 3 |
 | divination | 2 |
 | domain | 6 |
@@ -158,6 +161,7 @@
 | mail | 2 |
 | mailorder | 4 |
 | map2 | 2 |
+| margins | 6 |
 | marriage | 6 |
 | media2 | 2 |
 | membership | 3 |
@@ -174,6 +178,7 @@
 | misc3 | 4 |
 | misc4 | 3 |
 | misc5 | 3 |
+| misreading | 6 |
 | missing | 2 |
 | mistakes | 1 |
 | museum | 2 |
@@ -191,6 +196,7 @@
 | objects | 2 |
 | office | 5 |
 | opposition | 4 |
+| oral | 7 |
 | ordeal | 6 |
 | outside_index | 5 |
 | petty_cash | 1 |
@@ -225,6 +231,7 @@
 | relics | 2 |
 | repair | 2 |
 | research | 6 |
+| reservation | 5 |
 | restaurant | 2 |
 | retreat | 6 |
 | return | 6 |
@@ -309,6 +316,17 @@
 | [abroad/letter.md](abroad/letter.md) | 海一　手紙 |
 | [abroad/pamphlet.md](abroad/pamphlet.md) | 海三　パンフ |
 | [abroad/report.md](abroad/report.md) | 海二　報告 |
+
+## after_reading
+
+| 文書 | 題 |
+|---|---|
+| [after_reading/burner.md](after_reading/burner.md) | 読六　焼いた人 |
+| [after_reading/disposer.md](after_reading/disposer.md) | 読五　捨てた人 |
+| [after_reading/keeper.md](after_reading/keeper.md) | 読四　返さない人 |
+| [after_reading/lender.md](after_reading/lender.md) | 読三　貸した人 |
+| [after_reading/notes.md](after_reading/notes.md) | 読一　メモ |
+| [after_reading/review.md](after_reading/review.md) | 読二　感想 |
 
 ## aftermath
 
@@ -762,6 +780,19 @@
 | [cookbook/rations.md](cookbook/rations.md) | 台一　配分 |
 | [cookbook/recipes.md](cookbook/recipes.md) | 台二　献立 |
 
+## copy
+
+| 文書 | 題 |
+|---|---|
+| [copy/auction.md](copy/auction.md) | 冊五　競売 |
+| [copy/bookplate.md](copy/bookplate.md) | 冊三　蔵書印 |
+| [copy/inscription.md](copy/inscription.md) | 冊二　献呈 |
+| [copy/loan.md](copy/loan.md) | 冊七　貸出 |
+| [copy/printing.md](copy/printing.md) | 冊一　印刷 |
+| [copy/purchase.md](copy/purchase.md) | 冊六　落札 |
+| [copy/repair.md](copy/repair.md) | 冊四　修理 |
+| [copy/theft.md](copy/theft.md) | 冊八　盗難 |
+
 ## correspondence
 
 | 文書 | 題 |
@@ -911,6 +942,17 @@
 | [discipline/penalties.md](discipline/penalties.md) | 規三　罰 |
 | [discipline/rules.md](discipline/rules.md) | 規一　規則 |
 | [discipline/tribunal.md](discipline/tribunal.md) | 規二　審判 |
+
+## discovery
+
+| 文書 | 題 |
+|---|---|
+| [discovery/abroad.md](discovery/abroad.md) | 発五　海外 |
+| [discovery/attic.md](discovery/attic.md) | 発一　屋根裏 |
+| [discovery/bookshop.md](discovery/bookshop.md) | 発二　古書店 |
+| [discovery/estate.md](discovery/estate.md) | 発三　遺品 |
+| [discovery/library.md](discovery/library.md) | 発六　図書館 |
+| [discovery/vault.md](discovery/vault.md) | 発四　貸金庫 |
 
 ## dissolution
 
@@ -1590,6 +1632,17 @@
 | [map2/neighbourhood.md](map2/neighbourhood.md) | 地一　周辺 |
 | [map2/route.md](map2/route.md) | 地二　経路 |
 
+## margins
+
+| 文書 | 題 |
+|---|---|
+| [margins/folds.md](margins/folds.md) | 余三　折り目 |
+| [margins/inserts.md](margins/inserts.md) | 余四　挟み物 |
+| [margins/notes.md](margins/notes.md) | 余一　書き込み |
+| [margins/stains.md](margins/stains.md) | 余五　汚れ |
+| [margins/tears.md](margins/tears.md) | 余六　破れ |
+| [margins/underlines.md](margins/underlines.md) | 余二　線 |
+
 ## marriage
 
 | 文書 | 題 |
@@ -1732,6 +1785,17 @@
 | [misc5/last_number.md](misc5/last_number.md) | 雑十七　番号 |
 | [misc5/vanished_address.md](misc5/vanished_address.md) | 雑十九　住所 |
 
+## misreading
+
+| 文書 | 題 |
+|---|---|
+| [misreading/adoption.md](misreading/adoption.md) | 誤五　採用 |
+| [misreading/correction.md](misreading/correction.md) | 誤三　訂正 |
+| [misreading/correction_error.md](misreading/correction_error.md) | 誤四　訂正の誤り |
+| [misreading/death.md](misreading/death.md) | 誤六　死 |
+| [misreading/record.md](misreading/record.md) | 誤一　記録 |
+| [misreading/spread.md](misreading/spread.md) | 誤二　広がり |
+
 ## missing
 
 | 文書 | 題 |
@@ -1856,6 +1920,18 @@
 | [opposition/families.md](opposition/families.md) | 反対一　家族会 |
 | [opposition/journalist.md](opposition/journalist.md) | 反対二　取材ノート |
 | [opposition/lawyer.md](opposition/lawyer.md) | 反対三　申し入れ書 |
+
+## oral
+
+| 文書 | 題 |
+|---|---|
+| [oral/charm.md](oral/charm.md) | 口六　呪文 |
+| [oral/fieldnotes.md](oral/fieldnotes.md) | 口一　聞き書き |
+| [oral/joke.md](oral/joke.md) | 口四　冗談 |
+| [oral/lullaby.md](oral/lullaby.md) | 口七　子守唄 |
+| [oral/proverb.md](oral/proverb.md) | 口三　諺 |
+| [oral/rumour.md](oral/rumour.md) | 口五　噂 |
+| [oral/song.md](oral/song.md) | 口二　異本 |
 
 ## ordeal
 
@@ -2152,6 +2228,16 @@
 | [research/peer_review.md](research/peer_review.md) | 研六　査読 |
 | [research/textbook.md](research/textbook.md) | 研三　教科書 |
 | [research/thesis.md](research/thesis.md) | 研一　要旨 |
+
+## reservation
+
+| 文書 | 題 |
+|---|---|
+| [reservation/expiry.md](reservation/expiry.md) | 予四　期限切れ |
+| [reservation/form.md](reservation/form.md) | 予一　予約票 |
+| [reservation/hold.md](reservation/hold.md) | 予三　取り置き |
+| [reservation/queue.md](reservation/queue.md) | 予二　順番待ち |
+| [reservation/renewal.md](reservation/renewal.md) | 予五　再予約 |
 
 ## restaurant
 
