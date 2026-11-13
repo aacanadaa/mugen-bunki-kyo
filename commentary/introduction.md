@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百八十三、文書 千五百二十一、約 二百八十六 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百八十九、文書 千五百六十五、約 二百九十四 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -120,6 +120,7 @@
 | audit2 | 2 |
 | ayear | 12 |
 | band | 4 |
+| before | 8 |
 | bereaved | 2 |
 | bibliography2 | 10 |
 | biographies | 10 |
@@ -132,6 +133,7 @@
 | broadcast | 5 |
 | bulletin | 3 |
 | bundles | 5 |
+| cache | 7 |
 | calendar2 | 2 |
 | calendar3 | 2 |
 | canon | 18 |
@@ -263,6 +265,7 @@
 | inventory | 3 |
 | irregular | 6 |
 | jubilee | 3 |
+| knowledge | 8 |
 | landlord | 1 |
 | language | 6 |
 | last | 3 |
@@ -283,6 +286,7 @@
 | lexical_afterlife | 8 |
 | lexicon | 2 |
 | library | 2 |
+| lies | 8 |
 | lifestyle | 5 |
 | lineage | 5 |
 | liturgy | 5 |
@@ -362,6 +366,7 @@
 | prophecy | 8 |
 | protest | 2 |
 | purge | 6 |
+| questions | 7 |
 | quotes | 6 |
 | radio | 2 |
 | reader_posts | 5 |
@@ -457,6 +462,7 @@
 | translation | 2 |
 | translation2 | 2 |
 | trial | 4 |
+| truths | 6 |
 | tuning | 2 |
 | typo | 1 |
 | unclaimed | 6 |

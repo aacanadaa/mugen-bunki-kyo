@@ -4,7 +4,7 @@
 
 # 群典 ── 無限分岐教・再建本文
 
-**千五百二十一の文書。三百八十三の節。約二百八十六万字。**
+**千五百六十五の文書。三百八十九の節。約二百九十四万字。**
 
 ---
 
@@ -59,7 +59,7 @@
 - **正本** ── [saoria.makeup](https://saoria.makeup/) ／ 唯一の信頼できる版
 - [読書案内](commentary/reading_guide.md) ── **先に読む**
 - [読書順序](commentary/reading_order.md) ── 五つの入口と、一つの出口
-- [総目録](INDEX.md) ── 千五百二十一の文書すべて
+- [総目録](INDEX.md) ── 千五百六十五の文書すべて
 - [語彙索引](appendix/concordance.md) ── 語を数える
 - [奥付](commentary/colophon.md) ── 本が自分の来歴を語る唯一の頁
 
