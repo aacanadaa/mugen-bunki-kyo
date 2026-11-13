@@ -91,14 +91,16 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百四十二、文書 千二百五十七、約 二百三十八 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百五十、文書 千三百一、約 二百四十六 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
 | abroad | 3 |
+| address | 5 |
 | after_quiet | 6 |
 | after_reading | 6 |
 | aftermath | 3 |
+| age | 5 |
 | alphabet | 1 |
 | animals | 2 |
 | anniversary | 1 |
@@ -155,6 +157,7 @@
 | contracts | 2 |
 | cookbook | 3 |
 | copy | 8 |
+| corrections | 5 |
 | correspondence | 6 |
 | correspondence2 | 2 |
 | counseling | 3 |
@@ -241,6 +244,7 @@
 | intentions | 5 |
 | intern | 1 |
 | inventory | 3 |
+| irregular | 6 |
 | jubilee | 3 |
 | landlord | 1 |
 | language | 6 |
@@ -351,6 +355,7 @@
 | repair | 2 |
 | research | 6 |
 | reservation | 5 |
+| residue | 6 |
 | resolution | 5 |
 | restaurant | 2 |
 | retreat | 6 |
@@ -422,6 +427,7 @@
 | trial | 4 |
 | tuning | 2 |
 | typo | 1 |
+| unclaimed | 6 |
 | undertaker | 1 |
 | unplaced | 5 |
 | upbringing | 4 |
@@ -429,12 +435,14 @@
 | verdict | 1 |
 | vestments | 3 |
 | visitors | 4 |
+| visitors3 | 5 |
 | voice | 2 |
 | volunteers | 3 |
 | web | 2 |
 | welfare | 1 |
 | will_dispute | 2 |
 | witness | 2 |
+| women | 6 |
 | work2 | 2 |
 | youth | 2 |
 
