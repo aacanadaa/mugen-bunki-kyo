@@ -1,5 +1,13 @@
 # 解説
 
+## 零　正本について
+
+本書の**唯一の信頼できる版**は、[https://saoria.makeup/](https://saoria.makeup/) に置かれている。
+
+ここにある写しは、すべてその版から派生したものであり、その限りにおいて信頼できる。引用するときは正本を参照されたい。写しのあいだに食い違いがあれば、正本が優先する。
+
+**食い違いを直すのは、読者ではない。** この教団が最も嫌った行為が、まさにそれであった。
+
 ## 一　この文書について
 
 『群典』は、二十世紀の終わりに東京で生まれたとされる小規模な宗教運動、無限分岐教の聖典である。運動の名は、信者たちが自分たちを指して使った言葉でもある。彼らは「無限分岐教に入る」とは言わず、「分岐する」と言った。
@@ -68,6 +76,304 @@
 
 そして最後に。本書を読んで、あなたが「これは異常だ」と思ったなら、その判断は正しい。ただし、その判断を支えているのは、あなたが異常でないという保証ではない。あなたが、まだ、その語彙を持っていないというだけのことである。
 
+## 七　この版の構成
+
+第一期の再建は、十七品と、その註だけであった。いま、この版はそれをはるかに超えている。
+
+理由は単純である。**教団は、教義だけを残さなかった。** 会計簿を残し、掲示を残し、名簿を残し、電話の取次ぎの記録を残した。婚姻の申請書を残し、試験問題を残し、追放者の一覧を残した。それらは教義ではないが、教義が人に何をしたかは、たいていそこに書かれている。
+
+そこでこの版は、九つの部に分けた。
+
+**経典**は、声と教義と終末論である。**注解**は、それを読むための装置である。**儀礼**は、教義が身体と時間に入る手順である。**記録**は、実際に何が起きたかの証言と日誌である。**運営**は、組織が自分を動かすために作った書類である。**外の世界**は、家族、隣人、学校、税務、法廷――教団が接触した外部の記録である。**受容**は、教団が読まれ、報道され、展示され、まねされた記録である。**人**は、生まれ、育ち、老い、死ぬ信者たちの記録である。そして**終わり**は、解散と、その後に残ったものである。
+
+この九分割は、教団の自己理解ではない。こちらの整理である。教団自身は、自分をこのように分けなかった。**分けなかったこと自体が、この教団の特徴である。** 会計と祈りと人事が、同じ机の上に、同じ筆跡で置かれていた。
+
+## 八　現在の構成
+
+<!-- STATS:BEGIN -->
+**現在の構成**　節 二百七十四、文書 八百六十、約 百六十六 万字。以下は生成時点の集計である。
+
+| 節 | 文書 |
+|---|---|
+| abroad | 3 |
+| aftermath | 3 |
+| alphabet | 1 |
+| animals | 2 |
+| anniversary | 1 |
+| apocrypha | 4 |
+| apocrypha3 | 2 |
+| apology | 2 |
+| appendix | 6 |
+| archive | 2 |
+| archive2 | 2 |
+| art | 4 |
+| auction | 1 |
+| audit | 2 |
+| audit2 | 2 |
+| bereaved | 2 |
+| bibliography2 | 10 |
+| birth | 5 |
+| body | 2 |
+| books2 | 3 |
+| bookstore | 3 |
+| branch | 3 |
+| broadcast | 5 |
+| bulletin | 3 |
+| calendar2 | 2 |
+| calendar3 | 2 |
+| canon | 18 |
+| canon2 | 3 |
+| casuistry | 5 |
+| catechism | 1 |
+| cemetery | 1 |
+| censorship | 2 |
+| charity | 6 |
+| children | 5 |
+| childrensbook | 2 |
+| cipher | 4 |
+| citation | 1 |
+| colors | 1 |
+| colors2 | 2 |
+| coming_of_age | 3 |
+| commentary | 13 |
+| comms | 4 |
+| comparison | 2 |
+| complaints | 2 |
+| conference | 2 |
+| confession2 | 5 |
+| contracts | 2 |
+| cookbook | 3 |
+| correspondence | 6 |
+| correspondence2 | 2 |
+| counseling | 3 |
+| counting | 1 |
+| court2 | 2 |
+| creed | 1 |
+| crisis | 6 |
+| critic_timeline | 1 |
+| criticism | 3 |
+| daily | 4 |
+| deathbed | 3 |
+| demolition | 2 |
+| design | 4 |
+| dictation | 1 |
+| digital | 10 |
+| digitization | 2 |
+| direction | 2 |
+| discipline | 7 |
+| dissolution | 3 |
+| divination | 2 |
+| donation | 1 |
+| dreams | 3 |
+| drill | 1 |
+| duty | 4 |
+| early_warnings | 6 |
+| editions | 8 |
+| elderly | 1 |
+| elite | 4 |
+| email | 1 |
+| employees | 3 |
+| employment | 2 |
+| encyclopedia | 3 |
+| ephemera | 3 |
+| epilogue | 6 |
+| events | 5 |
+| evidence | 3 |
+| exam2 | 2 |
+| exile | 6 |
+| family | 2 |
+| faq_after | 2 |
+| farewell | 6 |
+| farm | 2 |
+| film | 2 |
+| findingaid | 2 |
+| fire | 1 |
+| forgery | 3 |
+| funeral3 | 1 |
+| game | 1 |
+| gap_years | 5 |
+| garden | 1 |
+| geography | 4 |
+| governance | 4 |
+| grandchildren | 3 |
+| greatgrandchildren | 6 |
+| guesthouse | 4 |
+| guides | 6 |
+| handwriting | 1 |
+| his_silence | 8 |
+| history | 4 |
+| hoax | 2 |
+| hymnal | 1 |
+| hymns | 2 |
+| hymns2 | 2 |
+| imprint | 7 |
+| indexes | 5 |
+| influence | 3 |
+| insurance | 1 |
+| intern | 1 |
+| inventory | 3 |
+| jubilee | 3 |
+| landlord | 1 |
+| language | 6 |
+| last | 3 |
+| lastday | 2 |
+| latecomers | 4 |
+| laundry | 1 |
+| lectures | 4 |
+| legal | 3 |
+| legal2 | 3 |
+| letters_unopened | 2 |
+| letters_unsent | 2 |
+| letters2 | 2 |
+| letters5 | 2 |
+| lexicon | 2 |
+| library | 2 |
+| lineage | 5 |
+| liturgy | 5 |
+| loyalty | 4 |
+| magazine | 5 |
+| mail | 2 |
+| mailorder | 4 |
+| map2 | 2 |
+| marriage | 6 |
+| media2 | 2 |
+| membership | 3 |
+| memoir | 3 |
+| memorial_plaque | 1 |
+| merch | 2 |
+| mercy | 2 |
+| minor | 2 |
+| miracle | 6 |
+| misc | 6 |
+| misc2 | 6 |
+| misc3 | 4 |
+| misc4 | 3 |
+| misc5 | 3 |
+| missing | 2 |
+| mistakes | 1 |
+| museum | 2 |
+| music2 | 2 |
+| names | 2 |
+| naming2 | 2 |
+| narrative | 5 |
+| newyear | 1 |
+| nextdoor | 1 |
+| nextdoor2 | 1 |
+| numbers | 1 |
+| numbers2 | 4 |
+| nursing | 3 |
+| obituary | 2 |
+| objects | 2 |
+| office | 5 |
+| opposition | 4 |
+| ordeal | 6 |
+| outside_index | 5 |
+| petty_cash | 1 |
+| photoessay | 2 |
+| photographs | 3 |
+| pilgrimage | 2 |
+| plagiarism | 2 |
+| pledge | 2 |
+| poems | 2 |
+| police_visit | 1 |
+| post | 6 |
+| postcard | 1 |
+| pr | 2 |
+| praise | 2 |
+| press | 4 |
+| propaganda | 4 |
+| prophecy | 8 |
+| protest | 2 |
+| purge | 6 |
+| radio | 2 |
+| readers | 6 |
+| readinglist | 1 |
+| reception | 5 |
+| reception2 | 4 |
+| reconciliation | 8 |
+| records | 5 |
+| records3 | 4 |
+| recruit | 1 |
+| reform | 7 |
+| rehab | 6 |
+| relics | 2 |
+| repair | 2 |
+| research | 6 |
+| restaurant | 2 |
+| retreat | 6 |
+| reunion | 2 |
+| reward | 3 |
+| riddles | 1 |
+| rollcall | 1 |
+| roster | 2 |
+| rules2 | 2 |
+| rumor | 4 |
+| saints | 4 |
+| schedule | 2 |
+| scholar | 4 |
+| scholarship | 5 |
+| scholia | 4 |
+| scholia2 | 5 |
+| school | 2 |
+| school2 | 2 |
+| school5 | 1 |
+| school7 | 4 |
+| second_founder | 4 |
+| secondgen | 4 |
+| secret | 6 |
+| sermons | 6 |
+| sewing | 1 |
+| silence2 | 1 |
+| smell | 2 |
+| songbook | 2 |
+| sound2 | 4 |
+| space | 2 |
+| sports | 3 |
+| stage | 3 |
+| study | 4 |
+| styleguide | 2 |
+| subject_index | 1 |
+| successor | 2 |
+| summary | 2 |
+| surveillance2 | 5 |
+| switchboard | 2 |
+| tape_last | 2 |
+| taste | 2 |
+| tax | 2 |
+| teen | 1 |
+| testimony | 7 |
+| testimony_prep | 3 |
+| tests | 3 |
+| textual | 4 |
+| time | 2 |
+| touch | 2 |
+| traces | 6 |
+| transcripts | 3 |
+| translation | 2 |
+| translation2 | 2 |
+| trial | 4 |
+| tuning | 2 |
+| typo | 1 |
+| undertaker | 1 |
+| unplaced | 5 |
+| upbringing | 4 |
+| utilities | 2 |
+| verdict | 1 |
+| vestments | 3 |
+| visitors | 4 |
+| voice | 2 |
+| volunteers | 3 |
+| web | 2 |
+| welfare | 1 |
+| will_dispute | 2 |
+| witness | 2 |
+| work2 | 2 |
+| youth | 2 |
+
+全文書の一覧は[総目録](../INDEX.md)にある。
+<!-- STATS:END -->
+
 ---
 
 *[編纂者覚書へ](editors_note.md)　／　[第一品へ](../canon/01_jo.md)*
+
