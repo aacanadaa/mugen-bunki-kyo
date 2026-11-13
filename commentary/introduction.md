@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百九、文書 千八十一、約 二百七 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百十七、文書 千百二十五、約 二百十五 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -162,6 +162,7 @@
 | criticism | 3 |
 | daily | 4 |
 | deathbed | 3 |
+| debts | 6 |
 | demolition | 2 |
 | design | 4 |
 | dictation | 1 |
@@ -202,11 +203,13 @@
 | findingaid | 2 |
 | fire | 1 |
 | forgery | 3 |
+| forgotten | 6 |
 | funeral3 | 1 |
 | game | 1 |
 | gap_years | 5 |
 | garden | 1 |
 | geography | 4 |
+| gift_copy | 4 |
 | governance | 4 |
 | grandchildren | 3 |
 | greatgrandchildren | 6 |
@@ -255,6 +258,7 @@
 | map2 | 2 |
 | margins | 6 |
 | marriage | 6 |
+| media_training | 5 |
 | media2 | 2 |
 | membership | 3 |
 | memoir | 3 |
@@ -273,6 +277,7 @@
 | misreading | 6 |
 | missing | 2 |
 | mistakes | 1 |
+| mourning | 4 |
 | museum | 2 |
 | music2 | 2 |
 | names | 2 |
@@ -288,6 +293,7 @@
 | obituary | 2 |
 | objects | 2 |
 | office | 5 |
+| oneday | 8 |
 | opposition | 4 |
 | oral | 7 |
 | ordeal | 6 |
@@ -309,6 +315,7 @@
 | prophecy | 8 |
 | protest | 2 |
 | purge | 6 |
+| quotes | 6 |
 | radio | 2 |
 | readers | 6 |
 | readinglist | 1 |
@@ -352,6 +359,7 @@
 | sermons | 6 |
 | sewing | 1 |
 | silence2 | 1 |
+| sleep | 5 |
 | smell | 2 |
 | songbook | 2 |
 | sound2 | 4 |
