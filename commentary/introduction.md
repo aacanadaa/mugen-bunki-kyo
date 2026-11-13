@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 二百八十二、文書 九百五、約 百七十四 万字。以下は生成時点の集計である。
+**現在の構成**　節 二百八十九、文書 九百四十九、約 百八十二 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -130,9 +130,11 @@
 | censorship | 2 |
 | charity | 6 |
 | children | 5 |
+| children_questions | 6 |
 | childrensbook | 2 |
 | cipher | 4 |
 | citation | 1 |
+| clearing | 6 |
 | colors | 1 |
 | colors2 | 2 |
 | coming_of_age | 3 |
@@ -220,6 +222,7 @@
 | landlord | 1 |
 | language | 6 |
 | last | 3 |
+| last_member | 6 |
 | lastday | 2 |
 | latecomers | 4 |
 | laundry | 1 |
@@ -236,6 +239,7 @@
 | lineage | 5 |
 | liturgy | 5 |
 | loyalty | 4 |
+| machine | 8 |
 | magazine | 5 |
 | mail | 2 |
 | mailorder | 4 |
@@ -245,6 +249,7 @@
 | membership | 3 |
 | memoir | 3 |
 | memorial_plaque | 1 |
+| memory_tools | 6 |
 | merch | 2 |
 | mercy | 2 |
 | minor | 2 |
@@ -296,6 +301,7 @@
 | reception | 5 |
 | reception2 | 4 |
 | reconciliation | 8 |
+| record_end | 6 |
 | records | 5 |
 | records3 | 4 |
 | recruit | 1 |
@@ -306,6 +312,7 @@
 | research | 6 |
 | restaurant | 2 |
 | retreat | 6 |
+| return | 6 |
 | reunion | 2 |
 | reward | 3 |
 | riddles | 1 |
