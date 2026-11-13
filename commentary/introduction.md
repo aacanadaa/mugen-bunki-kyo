@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百十七、文書 千百二十五、約 二百十五 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百二十五、文書 千百六十九、約 二百二十二 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -102,6 +102,7 @@
 | alphabet | 1 |
 | animals | 2 |
 | anniversary | 1 |
+| annual | 5 |
 | apocrypha | 4 |
 | apocrypha3 | 2 |
 | apology | 2 |
@@ -164,6 +165,7 @@
 | deathbed | 3 |
 | debts | 6 |
 | demolition | 2 |
+| deposit | 5 |
 | design | 4 |
 | dictation | 1 |
 | digital | 10 |
@@ -213,6 +215,7 @@
 | governance | 4 |
 | grandchildren | 3 |
 | greatgrandchildren | 6 |
+| grievance | 5 |
 | guesthouse | 4 |
 | guides | 6 |
 | handwriting | 1 |
@@ -228,6 +231,7 @@
 | influence | 3 |
 | inner_doubt | 6 |
 | insurance | 1 |
+| intentions | 5 |
 | intern | 1 |
 | inventory | 3 |
 | jubilee | 3 |
@@ -246,6 +250,7 @@
 | letters_unsent | 2 |
 | letters2 | 2 |
 | letters5 | 2 |
+| lexical_afterlife | 8 |
 | lexicon | 2 |
 | library | 2 |
 | lineage | 5 |
@@ -283,6 +288,7 @@
 | names | 2 |
 | naming2 | 2 |
 | narrative | 5 |
+| necrology | 5 |
 | neo | 8 |
 | newyear | 1 |
 | nextdoor | 1 |
@@ -363,6 +369,7 @@
 | smell | 2 |
 | songbook | 2 |
 | sound2 | 4 |
+| sources | 6 |
 | souvenir | 6 |
 | space | 2 |
 | sports | 3 |
@@ -386,6 +393,7 @@
 | tests | 3 |
 | textbook2 | 6 |
 | textual | 4 |
+| theft | 5 |
 | time | 2 |
 | touch | 2 |
 | tourism | 5 |
