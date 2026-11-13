@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百二十五、文書 千百六十九、約 二百二十二 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百三十四、文書 千二百十三、約 二百三十 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -117,6 +117,7 @@
 | bereaved | 2 |
 | bibliography2 | 10 |
 | birth | 5 |
+| blank_forms | 6 |
 | body | 2 |
 | books2 | 3 |
 | bookstore | 3 |
@@ -204,6 +205,7 @@
 | film | 2 |
 | findingaid | 2 |
 | fire | 1 |
+| first_year | 7 |
 | forgery | 3 |
 | forgotten | 6 |
 | funeral3 | 1 |
@@ -222,6 +224,7 @@
 | his_silence | 8 |
 | history | 4 |
 | hoax | 2 |
+| homework | 5 |
 | hymnal | 1 |
 | hymns | 2 |
 | hymns2 | 2 |
@@ -262,6 +265,7 @@
 | mailorder | 4 |
 | map2 | 2 |
 | margins | 6 |
+| margins2 | 4 |
 | marriage | 6 |
 | media_training | 5 |
 | media2 | 2 |
@@ -304,7 +308,10 @@
 | oral | 7 |
 | ordeal | 6 |
 | outside_index | 5 |
+| palimpsest | 6 |
+| parking | 3 |
 | petty_cash | 1 |
+| phone_voice | 4 |
 | photoessay | 2 |
 | photographs | 3 |
 | pilgrimage | 2 |
@@ -359,6 +366,7 @@
 | school2 | 2 |
 | school5 | 1 |
 | school7 | 4 |
+| seals | 5 |
 | second_founder | 4 |
 | secondgen | 4 |
 | secret | 6 |
@@ -374,6 +382,7 @@
 | space | 2 |
 | sports | 3 |
 | stage | 3 |
+| stationery | 4 |
 | street | 6 |
 | street_memory | 7 |
 | study | 4 |
