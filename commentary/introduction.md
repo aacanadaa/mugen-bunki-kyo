@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百七十一、文書 千四百三十三、約 二百七十 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百七十八、文書 千四百七十七、約 二百七十八 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -131,6 +131,7 @@
 | branch | 3 |
 | broadcast | 5 |
 | bulletin | 3 |
+| bundles | 5 |
 | calendar2 | 2 |
 | calendar3 | 2 |
 | canon | 18 |
@@ -196,6 +197,7 @@
 | dreams | 3 |
 | drill | 1 |
 | duty | 4 |
+| dwellings | 6 |
 | early_warnings | 6 |
 | editions | 8 |
 | editorial | 5 |
@@ -214,6 +216,7 @@
 | exile | 6 |
 | failure_modes | 6 |
 | family | 2 |
+| family_archive | 10 |
 | fanwork | 7 |
 | faq_after | 2 |
 | farewell | 6 |
@@ -244,6 +247,7 @@
 | hoax | 2 |
 | homework | 5 |
 | horoscope | 5 |
+| household_budget | 5 |
 | hymnal | 1 |
 | hymns | 2 |
 | hymns2 | 2 |
@@ -363,6 +367,7 @@
 | reception2 | 4 |
 | reconciliation | 8 |
 | record_end | 6 |
+| recordings | 6 |
 | records | 5 |
 | records3 | 4 |
 | recruit | 1 |
@@ -394,6 +399,7 @@
 | scholia | 4 |
 | scholia2 | 5 |
 | school | 2 |
+| school_records | 6 |
 | school2 | 2 |
 | school5 | 1 |
 | school7 | 4 |
@@ -454,6 +460,7 @@
 | upbringing | 4 |
 | utilities | 2 |
 | verdict | 1 |
+| verso | 6 |
 | vestments | 3 |
 | visitors | 4 |
 | visitors3 | 5 |
