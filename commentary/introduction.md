@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百七十八、文書 千四百七十七、約 二百七十八 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百八十三、文書 千五百二十一、約 二百八十六 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -333,6 +333,10 @@
 | objects | 2 |
 | office | 5 |
 | oneday | 8 |
+| oneletter | 10 |
+| oneroom | 7 |
+| onerumour | 10 |
+| onesignature | 7 |
 | opposition | 4 |
 | oral | 7 |
 | ordeal | 6 |
@@ -448,6 +452,7 @@
 | tourism | 5 |
 | toys | 7 |
 | traces | 6 |
+| transaction | 10 |
 | transcripts | 3 |
 | translation | 2 |
 | translation2 | 2 |
