@@ -1,6 +1,6 @@
 # 総目録
 
-> 全 1213 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
+> 全 1257 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
 
 ## 節の一覧
 
@@ -21,6 +21,7 @@
 | archive | 2 |
 | archive2 | 2 |
 | art | 4 |
+| as_evidence | 5 |
 | auction | 1 |
 | audit | 2 |
 | audit2 | 2 |
@@ -39,6 +40,7 @@
 | calendar3 | 2 |
 | canon | 18 |
 | canon2 | 3 |
+| case_law | 6 |
 | casuistry | 5 |
 | catechism | 1 |
 | cemetery | 1 |
@@ -91,6 +93,7 @@
 | donation | 1 |
 | dormant | 4 |
 | doubt_admin | 6 |
+| drafting | 5 |
 | dreams | 3 |
 | drill | 1 |
 | duty | 4 |
@@ -144,6 +147,7 @@
 | indexes | 5 |
 | influence | 3 |
 | inner_doubt | 6 |
+| inspection | 5 |
 | insurance | 1 |
 | intentions | 5 |
 | intern | 1 |
@@ -160,6 +164,7 @@
 | lectures | 4 |
 | legal | 3 |
 | legal2 | 3 |
+| legislation | 7 |
 | letters_unopened | 2 |
 | letters_unsent | 2 |
 | letters2 | 2 |
@@ -251,11 +256,13 @@
 | records3 | 4 |
 | recruit | 1 |
 | reform | 7 |
+| regulation | 6 |
 | rehab | 6 |
 | relics | 2 |
 | repair | 2 |
 | research | 6 |
 | reservation | 5 |
+| resolution | 5 |
 | restaurant | 2 |
 | retreat | 6 |
 | return | 6 |
@@ -283,6 +290,7 @@
 | secret | 6 |
 | sermons | 6 |
 | sewing | 1 |
+| shared_form | 5 |
 | silence2 | 1 |
 | sleep | 5 |
 | smell | 2 |
@@ -465,6 +473,16 @@
 | [art/sale.md](art/sale.md) | 美三　売却 |
 | [art/valuation.md](art/valuation.md) | 美二　評価 |
 
+## as_evidence
+
+| 文書 | 題 |
+|---|---|
+| [as_evidence/after.md](as_evidence/after.md) | 証五　その後 |
+| [as_evidence/judgment.md](as_evidence/judgment.md) | 証四　判決文 |
+| [as_evidence/other_case.md](as_evidence/other_case.md) | 証一　別件 |
+| [as_evidence/quoting.md](as_evidence/quoting.md) | 証二　引用の形 |
+| [as_evidence/rebuttal.md](as_evidence/rebuttal.md) | 証三　反論 |
+
 ## auction
 
 | 文書 | 題 |
@@ -630,6 +648,17 @@
 | [canon2/01.md](canon2/01.md) | 後群典　第一品 |
 | [canon2/02.md](canon2/02.md) | 後群典　第二品 |
 | [canon2/03.md](canon2/03.md) | 後群典　第三品 |
+
+## case_law
+
+| 文書 | 題 |
+|---|---|
+| [case_law/appeal.md](case_law/appeal.md) | 判二　控訴 |
+| [case_law/citation.md](case_law/citation.md) | 判五　引用 |
+| [case_law/effect.md](case_law/effect.md) | 判六　影響 |
+| [case_law/final.md](case_law/final.md) | 判三　上告 |
+| [case_law/first.md](case_law/first.md) | 判一　第一審 |
+| [case_law/remand.md](case_law/remand.md) | 判四　差戻し |
 
 ## casuistry
 
@@ -1090,6 +1119,16 @@
 | [doubt_admin/statistics.md](doubt_admin/statistics.md) | 疑七　統計 |
 | [doubt_admin/storage.md](doubt_admin/storage.md) | 疑八　保管 |
 | [doubt_admin/training.md](doubt_admin/training.md) | 疑十　訓練 |
+
+## drafting
+
+| 文書 | 題 |
+|---|---|
+| [drafting/fifth.md](drafting/fifth.md) | 起五　第五案 |
+| [drafting/first.md](drafting/first.md) | 起一　第一案 |
+| [drafting/fourth.md](drafting/fourth.md) | 起四　第四案 |
+| [drafting/second.md](drafting/second.md) | 起二　第二案 |
+| [drafting/third.md](drafting/third.md) | 起三　第三案 |
 
 ## dreams
 
@@ -1553,6 +1592,16 @@
 | [inner_doubt/letter.md](inner_doubt/letter.md) | 側一　手紙 |
 | [inner_doubt/meeting.md](inner_doubt/meeting.md) | 側三　密談 |
 
+## inspection
+
+| 文書 | 題 |
+|---|---|
+| [inspection/building.md](inspection/building.md) | 検四　建築 |
+| [inspection/correction.md](inspection/correction.md) | 検五　是正 |
+| [inspection/fire.md](inspection/fire.md) | 検一　消防 |
+| [inspection/hygiene.md](inspection/hygiene.md) | 検二　衛生 |
+| [inspection/labour.md](inspection/labour.md) | 検三　労基 |
+
 ## insurance
 
 | 文書 | 題 |
@@ -1684,6 +1733,18 @@
 | [legal2/articles.md](legal2/articles.md) | 法四　定款 |
 | [legal2/licence.md](legal2/licence.md) | 法六　許認可 |
 | [legal2/registration.md](legal2/registration.md) | 法五　登記 |
+
+## legislation
+
+| 文書 | 題 |
+|---|---|
+| [legislation/amendment.md](legislation/amendment.md) | 立六　改正 |
+| [legislation/bill.md](legislation/bill.md) | 立一　法案 |
+| [legislation/challenge.md](legislation/challenge.md) | 立五　挑戦 |
+| [legislation/debate.md](legislation/debate.md) | 立二　審議 |
+| [legislation/enforcement.md](legislation/enforcement.md) | 立四　施行 |
+| [legislation/passage.md](legislation/passage.md) | 立三　成立 |
+| [legislation/repeal.md](legislation/repeal.md) | 立七　廃止 |
 
 ## letters_unopened
 
@@ -2479,6 +2540,17 @@
 | [reform/reply.md](reform/reply.md) | 改七　回答 |
 | [reform/split.md](reform/split.md) | 改四　分裂 |
 
+## regulation
+
+| 文書 | 題 |
+|---|---|
+| [regulation/circular.md](regulation/circular.md) | 行一　通達 |
+| [regulation/inspection.md](regulation/inspection.md) | 行二　立入り |
+| [regulation/jurisdiction.md](regulation/jurisdiction.md) | 行六　所管 |
+| [regulation/lift.md](regulation/lift.md) | 行四　解除 |
+| [regulation/order.md](regulation/order.md) | 行三　改善命令 |
+| [regulation/record.md](regulation/record.md) | 行五　記録 |
+
 ## rehab
 
 | 文書 | 題 |
@@ -2524,6 +2596,16 @@
 | [reservation/hold.md](reservation/hold.md) | 予三　取り置き |
 | [reservation/queue.md](reservation/queue.md) | 予二　順番待ち |
 | [reservation/renewal.md](reservation/renewal.md) | 予五　再予約 |
+
+## resolution
+
+| 文書 | 題 |
+|---|---|
+| [resolution/council.md](resolution/council.md) | 決一　決議 |
+| [resolution/memorial.md](resolution/memorial.md) | 決四　記念 |
+| [resolution/petition.md](resolution/petition.md) | 決二　請願 |
+| [resolution/report.md](resolution/report.md) | 決三　答申 |
+| [resolution/withdrawal.md](resolution/withdrawal.md) | 決五　撤回 |
 
 ## restaurant
 
@@ -2756,6 +2838,16 @@
 | 文書 | 題 |
 |---|---|
 | [sewing/room_log.md](sewing/room_log.md) | 縫一　作業日誌 |
+
+## shared_form
+
+| 文書 | 題 |
+|---|---|
+| [shared_form/final.md](shared_form/final.md) | 共五　完成 |
+| [shared_form/form.md](shared_form/form.md) | 共一　様式 |
+| [shared_form/hand1.md](shared_form/hand1.md) | 共二　一 |
+| [shared_form/hand2.md](shared_form/hand2.md) | 共三　二 |
+| [shared_form/hand3.md](shared_form/hand3.md) | 共四　三 |
 
 ## silence2
 

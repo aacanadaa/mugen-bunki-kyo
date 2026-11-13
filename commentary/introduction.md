@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百三十四、文書 千二百十三、約 二百三十 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百四十二、文書 千二百五十七、約 二百三十八 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -110,6 +110,7 @@
 | archive | 2 |
 | archive2 | 2 |
 | art | 4 |
+| as_evidence | 5 |
 | auction | 1 |
 | audit | 2 |
 | audit2 | 2 |
@@ -128,6 +129,7 @@
 | calendar3 | 2 |
 | canon | 18 |
 | canon2 | 3 |
+| case_law | 6 |
 | casuistry | 5 |
 | catechism | 1 |
 | cemetery | 1 |
@@ -180,6 +182,7 @@
 | donation | 1 |
 | dormant | 4 |
 | doubt_admin | 6 |
+| drafting | 5 |
 | dreams | 3 |
 | drill | 1 |
 | duty | 4 |
@@ -233,6 +236,7 @@
 | indexes | 5 |
 | influence | 3 |
 | inner_doubt | 6 |
+| inspection | 5 |
 | insurance | 1 |
 | intentions | 5 |
 | intern | 1 |
@@ -249,6 +253,7 @@
 | lectures | 4 |
 | legal | 3 |
 | legal2 | 3 |
+| legislation | 7 |
 | letters_unopened | 2 |
 | letters_unsent | 2 |
 | letters2 | 2 |
@@ -340,11 +345,13 @@
 | records3 | 4 |
 | recruit | 1 |
 | reform | 7 |
+| regulation | 6 |
 | rehab | 6 |
 | relics | 2 |
 | repair | 2 |
 | research | 6 |
 | reservation | 5 |
+| resolution | 5 |
 | restaurant | 2 |
 | retreat | 6 |
 | return | 6 |
@@ -372,6 +379,7 @@
 | secret | 6 |
 | sermons | 6 |
 | sewing | 1 |
+| shared_form | 5 |
 | silence2 | 1 |
 | sleep | 5 |
 | smell | 2 |
