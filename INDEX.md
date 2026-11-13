@@ -1,6 +1,6 @@
 # 総目録
 
-> 全 1345 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
+> 全 1389 文書の一覧。各文書の最初の見出しを題とした。この頁は `rebuild.ps1` が生成する。
 
 ## 節の一覧
 
@@ -14,6 +14,7 @@
 | age | 5 |
 | alphabet | 1 |
 | animals | 2 |
+| annex | 8 |
 | anniversary | 1 |
 | annual | 5 |
 | apocrypha | 4 |
@@ -27,9 +28,11 @@
 | auction | 1 |
 | audit | 2 |
 | audit2 | 2 |
+| ayear | 12 |
 | band | 4 |
 | bereaved | 2 |
 | bibliography2 | 10 |
+| biographies | 10 |
 | birth | 5 |
 | blank_forms | 6 |
 | body | 2 |
@@ -132,6 +135,7 @@
 | game | 1 |
 | gap_years | 5 |
 | garden | 1 |
+| gazetteer | 8 |
 | geography | 4 |
 | gift_copy | 4 |
 | governance | 4 |
@@ -225,6 +229,7 @@
 | numbers2 | 4 |
 | nursing | 3 |
 | obituary | 2 |
+| object_chronology | 6 |
 | objects | 2 |
 | office | 5 |
 | oneday | 8 |
@@ -435,6 +440,19 @@
 | [animals/cat.md](animals/cat.md) | 動二　猫 |
 | [animals/dog.md](animals/dog.md) | 動一　犬 |
 
+## annex
+
+| 文書 | 題 |
+|---|---|
+| [annex/chronology.md](annex/chronology.md) | 附三　年表 |
+| [annex/errata.md](annex/errata.md) | 附八　正誤 |
+| [annex/genealogy.md](annex/genealogy.md) | 附二　系図 |
+| [annex/household.md](annex/household.md) | 附五　家系 |
+| [annex/index.md](annex/index.md) | 附七　索引 |
+| [annex/inventory.md](annex/inventory.md) | 附六　目録 |
+| [annex/map.md](annex/map.md) | 附四　地図 |
+| [annex/statistics.md](annex/statistics.md) | 附一　統計 |
+
 ## anniversary
 
 | 文書 | 題 |
@@ -538,6 +556,23 @@
 | [audit2/findings.md](audit2/findings.md) | 監三　指摘 |
 | [audit2/improvement.md](audit2/improvement.md) | 監四　改善報告 |
 
+## ayear
+
+| 文書 | 題 |
+|---|---|
+| [ayear/april.md](ayear/april.md) | 四月　掲示 |
+| [ayear/august.md](ayear/august.md) | 八月　面会 |
+| [ayear/december.md](ayear/december.md) | 十二月　年賀状 |
+| [ayear/february.md](ayear/february.md) | 二月　手紙 |
+| [ayear/january.md](ayear/january.md) | 一月　日誌 |
+| [ayear/july.md](ayear/july.md) | 七月　写真 |
+| [ayear/june.md](ayear/june.md) | 六月　電話 |
+| [ayear/march.md](ayear/march.md) | 三月　会計 |
+| [ayear/may.md](ayear/may.md) | 五月　祈願 |
+| [ayear/november.md](ayear/november.md) | 十一月　葬儀 |
+| [ayear/october.md](ayear/october.md) | 十月　献立 |
+| [ayear/september.md](ayear/september.md) | 九月　議事 |
+
 ## band
 
 | 文書 | 題 |
@@ -568,6 +603,21 @@
 | [bibliography2/stemma.md](bibliography2/stemma.md) | 書二　系統 |
 | [bibliography2/variants.md](bibliography2/variants.md) | 書一　異同 |
 | [bibliography2/watermark.md](bibliography2/watermark.md) | 書四　簀 |
+
+## biographies
+
+| 文書 | 題 |
+|---|---|
+| [biographies/hiraki.md](biographies/hiraki.md) | 人五　開 |
+| [biographies/kakera.md](biographies/kakera.md) | 人九　欠 |
+| [biographies/kasane.md](biographies/kasane.md) | 人三　重 |
+| [biographies/kiriban.md](biographies/kiriban.md) | 人一　切番 |
+| [biographies/magari.md](biographies/magari.md) | 人七　曲 |
+| [biographies/musubi.md](biographies/musubi.md) | 人十　結 |
+| [biographies/nagare.md](biographies/nagare.md) | 人二　流 |
+| [biographies/narashi.md](biographies/narashi.md) | 人八　均 |
+| [biographies/shizume.md](biographies/shizume.md) | 人四　沈 |
+| [biographies/toji.md](biographies/toji.md) | 人六　閉 |
 
 ## birth
 
@@ -1477,6 +1527,19 @@
 |---|---|
 | [garden/record.md](garden/record.md) | 庭一　記録 |
 
+## gazetteer
+
+| 文書 | 題 |
+|---|---|
+| [gazetteer/branch.md](gazetteer/branch.md) | 地四　支所 |
+| [gazetteer/canteen.md](gazetteer/canteen.md) | 地六　食堂 |
+| [gazetteer/cemetery.md](gazetteer/cemetery.md) | 地十　墓地 |
+| [gazetteer/farm.md](gazetteer/farm.md) | 地七　農園 |
+| [gazetteer/guesthouse.md](gazetteer/guesthouse.md) | 地九　宿 |
+| [gazetteer/headquarters.md](gazetteer/headquarters.md) | 地三　本部 |
+| [gazetteer/printer.md](gazetteer/printer.md) | 地五　印刷 |
+| [gazetteer/warehouse.md](gazetteer/warehouse.md) | 地八　倉庫 |
+
 ## geography
 
 | 文書 | 題 |
@@ -2290,6 +2353,17 @@
 |---|---|
 | [obituary/member.md](obituary/member.md) | 訃一　会員の死亡記事 |
 | [obituary/outside.md](obituary/outside.md) | 訃二　外部紙の死亡記事 |
+
+## object_chronology
+
+| 文書 | 題 |
+|---|---|
+| [object_chronology/altar.md](object_chronology/altar.md) | 物七　仏壇 |
+| [object_chronology/press.md](object_chronology/press.md) | 物四　印刷機 |
+| [object_chronology/sewing_machine.md](object_chronology/sewing_machine.md) | 物三　ミシン |
+| [object_chronology/signboard.md](object_chronology/signboard.md) | 物六　看板 |
+| [object_chronology/telephone.md](object_chronology/telephone.md) | 物五　電話 |
+| [object_chronology/van.md](object_chronology/van.md) | 物八　車 |
 
 ## objects
 

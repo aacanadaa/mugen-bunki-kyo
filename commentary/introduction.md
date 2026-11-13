@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百五十七、文書 千三百四十五、約 二百五十四 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百六十二、文書 千三百八十九、約 二百六十一 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -103,6 +103,7 @@
 | age | 5 |
 | alphabet | 1 |
 | animals | 2 |
+| annex | 8 |
 | anniversary | 1 |
 | annual | 5 |
 | apocrypha | 4 |
@@ -116,9 +117,11 @@
 | auction | 1 |
 | audit | 2 |
 | audit2 | 2 |
+| ayear | 12 |
 | band | 4 |
 | bereaved | 2 |
 | bibliography2 | 10 |
+| biographies | 10 |
 | birth | 5 |
 | blank_forms | 6 |
 | body | 2 |
@@ -221,6 +224,7 @@
 | game | 1 |
 | gap_years | 5 |
 | garden | 1 |
+| gazetteer | 8 |
 | geography | 4 |
 | gift_copy | 4 |
 | governance | 4 |
@@ -314,6 +318,7 @@
 | numbers2 | 4 |
 | nursing | 3 |
 | obituary | 2 |
+| object_chronology | 6 |
 | objects | 2 |
 | office | 5 |
 | oneday | 8 |
