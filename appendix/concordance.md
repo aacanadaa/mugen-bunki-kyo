@@ -4,31 +4,31 @@
 
 | 語 | 計 | 最も多く現れる文書 |
 |---|---|---|
-| 分岐 | 545 | [03_bunki](../canon/03_bunki.md)（50）、[rules](../dreams/rules.md)（13）、[letter](../abroad/letter.md)（13） |
-| 収束 | 379 | [worksheet](../study/worksheet.md)（11）、[letter](../abroad/letter.md)（8）、[advanced](../tests/advanced.md)（6） |
-| 畳 | 1495 | [tehodoki](../hymns/tehodoki.md)（53）、[05_yoyaku](../canon/05_yoyaku.md)（49）、[refutation](../apocrypha/refutation.md)（32） |
-| 功徳 | 125 | [03_bunki](../canon/03_bunki.md)（12）、[05_anger](../sermons/05_anger.md)（8）、[05_yoyaku](../canon/05_yoyaku.md)（8） |
-| 割当 | 85 | [04_wariate](../canon/04_wariate.md)（21）、[resignations](../correspondence/resignations.md)（8）、[ledger](../records/ledger.md)（6） |
-| 文脈 | 83 | [08_gyoho](../canon/08_gyoho.md)（8）、[05_yoyaku](../canon/05_yoyaku.md)（7）、[marginalia](../commentary/marginalia.md)（7） |
-| 窓 | 469 | [03_family](../sermons/03_family.md)（41）、[11_shinwa](../canon/11_shinwa.md)（25）、[rooms](../photographs/rooms.md)（25） |
-| 切断 | 45 | [08_gyoho](../canon/08_gyoho.md)（9）、[11_shinwa](../canon/11_shinwa.md)（5）、[funeral](../liturgy/funeral.md)（4） |
+| 分岐 | 754 | [03_bunki](../canon/03_bunki.md)（50）、[rules](../dreams/rules.md)（13）、[letter](../abroad/letter.md)（13） |
+| 収束 | 564 | [worksheet](../study/worksheet.md)（11）、[opening](../stage/opening.md)（9）、[treatment](../game/treatment.md)（8） |
+| 畳 | 1856 | [tehodoki](../hymns/tehodoki.md)（53）、[05_yoyaku](../canon/05_yoyaku.md)（49）、[refutation](../apocrypha/refutation.md)（32） |
+| 功徳 | 124 | [03_bunki](../canon/03_bunki.md)（12）、[glossary](../commentary/glossary.md)（8）、[05_yoyaku](../canon/05_yoyaku.md)（8） |
+| 割当 | 82 | [04_wariate](../canon/04_wariate.md)（21）、[resignations](../correspondence/resignations.md)（8）、[02_money](../sermons/02_money.md)（6） |
+| 文脈 | 82 | [08_gyoho](../canon/08_gyoho.md)（8）、[05_yoyaku](../canon/05_yoyaku.md)（7）、[marginalia](../commentary/marginalia.md)（7） |
+| 窓 | 506 | [03_family](../sermons/03_family.md)（41）、[rooms](../photographs/rooms.md)（25）、[11_shinwa](../canon/11_shinwa.md)（25） |
+| 切断 | 46 | [08_gyoho](../canon/08_gyoho.md)（9）、[11_shinwa](../canon/11_shinwa.md)（5）、[05_yoyaku](../canon/05_yoyaku.md)（4） |
 | 幻視 | 14 | [11_shinwa](../canon/11_shinwa.md)（4）、[confession](../apocrypha/confession.md)（3）、[10_shomei](../canon/10_shomei.md)（2） |
-| 声 | 533 | [10_shomei](../canon/10_shomei.md)（39）、[01_jo](../canon/01_jo.md)（38）、[alternate_opening](../apocrypha/alternate_opening.md)（35） |
-| 記憶 | 210 | [05_yoyaku](../canon/05_yoyaku.md)（10）、[interviews](../records/interviews.md)（8）、[memoir](../secondgen/memoir.md)（8） |
+| 声 | 601 | [10_shomei](../canon/10_shomei.md)（39）、[01_jo](../canon/01_jo.md)（38）、[alternate_opening](../apocrypha/alternate_opening.md)（35） |
+| 記憶 | 261 | [05_yoyaku](../canon/05_yoyaku.md)（10）、[memoir](../secondgen/memoir.md)（8）、[interviews](../records/interviews.md)（8） |
 | 調伏 | 4 | [confession](../apocrypha/confession.md)（2）、[calendar](../liturgy/calendar.md)（1）、[glossary](../commentary/glossary.md)（1） |
 | 息絶え | 11 | [05_yoyaku](../canon/05_yoyaku.md)（3）、[10_shomei](../canon/10_shomei.md)（2）、[06_shusoku](../canon/06_shusoku.md)（2） |
 | 堕ち | 7 | [01_first](../sermons/01_first.md)（2）、[calendar](../liturgy/calendar.md)（1）、[05_yoyaku](../canon/05_yoyaku.md)（1） |
-| 統率者 | 151 | [04_doubt](../sermons/04_doubt.md)（19）、[05_anger](../sermons/05_anger.md)（12）、[interview](../nursing/interview.md)（9） |
-| セイリャク | 101 | [draft](../apology/draft.md)（4）、[chronology](../commentary/chronology.md)（4）、[03_crisis](../history/03_crisis.md)（4） |
-| 閉座 | 260 | [full03](../testimony/full03.md)（8）、[02](../canon2/02.md)（8）、[06_last](../sermons/06_last.md)（7） |
-| 開闕 | 155 | [bibliography](../appendix/bibliography.md)（22）、[resignations](../correspondence/resignations.md)（8）、[weather](../duty/weather.md)（6） |
-| 使徒 | 176 | [changes](../textual/changes.md)（8）、[sequence](../photoessay/sequence.md)（7）、[v1](../encyclopedia/v1.md)（6） |
-| 要約 | 660 | [anime_treatment](../propaganda/anime_treatment.md)（20）、[journalist](../opposition/journalist.md)（15）、[rivals](../correspondence/rivals.md)（14） |
-| 完了 | 109 | [01_first](../sermons/01_first.md)（8）、[07_kai](../canon/07_kai.md)（6）、[five_star](../reception2/five_star.md)（5） |
+| 統率者 | 144 | [04_doubt](../sermons/04_doubt.md)（19）、[05_anger](../sermons/05_anger.md)（12）、[interview](../nursing/interview.md)（9） |
+| セイリャク | 139 | [draft](../apology/draft.md)（4）、[03_crisis](../history/03_crisis.md)（4）、[chronology](../commentary/chronology.md)（4） |
+| 閉座 | 352 | [full03](../testimony/full03.md)（8）、[02](../canon2/02.md)（8）、[06_last](../sermons/06_last.md)（7） |
+| 開闕 | 197 | [bibliography](../appendix/bibliography.md)（22）、[resignations](../correspondence/resignations.md)（8）、[letters](../records/letters.md)（6） |
+| 使徒 | 275 | [changes](../textual/changes.md)（8）、[sequence](../photoessay/sequence.md)（7）、[abridged](../summary/abridged.md)（7） |
+| 要約 | 765 | [anime_treatment](../propaganda/anime_treatment.md)（20）、[journalist](../opposition/journalist.md)（15）、[dispute](../scholia/dispute.md)（14） |
+| 完了 | 155 | [01_first](../sermons/01_first.md)（8）、[07_kai](../canon/07_kai.md)（6）、[resignations](../correspondence/resignations.md)（5） |
 | 並行 | 0 |  |
-| 複製 | 19 | [rooms](../geography/rooms.md)（3）、[judgment](../legal/judgment.md)（3）、[apostles](../correspondence/apostles.md)（2） |
-| 証 | 475 | [leader_letters](../correspondence/leader_letters.md)（15）、[02](../canon2/02.md)（12）、[resignations](../correspondence/resignations.md)（11） |
-| 註 | 974 | [07_kai](../canon/07_kai.md)（27）、[v3](../encyclopedia/v3.md)（24）、[marginalia](../commentary/marginalia.md)（21） |
+| 複製 | 23 | [judgment](../legal/judgment.md)（3）、[rooms](../geography/rooms.md)（3）、[treatment](../game/treatment.md)（3） |
+| 証 | 575 | [leader_letters](../correspondence/leader_letters.md)（15）、[02](../canon2/02.md)（12）、[resignations](../correspondence/resignations.md)（11） |
+| 註 | 1134 | [07_kai](../canon/07_kai.md)（27）、[v3](../encyclopedia/v3.md)（24）、[marginalia](../commentary/marginalia.md)（21） |
 
 ---
 
