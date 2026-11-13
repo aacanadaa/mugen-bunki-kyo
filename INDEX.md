@@ -1,6 +1,6 @@
 # 総目録
 
-> 全 735 文書の一覧。各文書の最初の見出しを題とした。
+> 全 776 文書の一覧。各文書の最初の見出しを題とした。
 
 ## 節の一覧
 
@@ -48,6 +48,7 @@
 | comparison | 2 |
 | complaints | 2 |
 | conference | 2 |
+| confession2 | 5 |
 | contracts | 2 |
 | cookbook | 3 |
 | correspondence | 6 |
@@ -66,6 +67,7 @@
 | digital | 10 |
 | digitization | 2 |
 | direction | 2 |
+| discipline | 7 |
 | dissolution | 3 |
 | divination | 2 |
 | donation | 1 |
@@ -82,6 +84,7 @@
 | epilogue | 6 |
 | events | 5 |
 | exam2 | 2 |
+| exile | 6 |
 | family | 2 |
 | faq_after | 2 |
 | farewell | 6 |
@@ -126,6 +129,7 @@
 | library | 2 |
 | lineage | 5 |
 | liturgy | 5 |
+| loyalty | 4 |
 | magazine | 5 |
 | mail | 2 |
 | mailorder | 4 |
@@ -136,11 +140,13 @@
 | memoir | 3 |
 | memorial_plaque | 1 |
 | merch | 2 |
+| mercy | 2 |
 | minor | 2 |
 | miracle | 6 |
 | misc | 6 |
 | misc2 | 6 |
 | misc3 | 4 |
+| misc4 | 3 |
 | missing | 2 |
 | mistakes | 1 |
 | museum | 2 |
@@ -176,6 +182,7 @@
 | propaganda | 4 |
 | prophecy | 8 |
 | protest | 2 |
+| purge | 6 |
 | radio | 2 |
 | readers | 6 |
 | readinglist | 1 |
@@ -191,6 +198,7 @@
 | restaurant | 2 |
 | retreat | 6 |
 | reunion | 2 |
+| reward | 3 |
 | riddles | 1 |
 | rollcall | 1 |
 | roster | 2 |
@@ -223,6 +231,7 @@
 | subject_index | 1 |
 | successor | 2 |
 | summary | 2 |
+| surveillance2 | 5 |
 | switchboard | 2 |
 | tape_last | 2 |
 | taste | 2 |
@@ -606,6 +615,16 @@
 | [conference/panel.md](conference/panel.md) | 会一　パネル |
 | [conference/qa.md](conference/qa.md) | 会二　質疑 |
 
+## confession2
+
+| 文書 | 題 |
+|---|---|
+| [confession2/loss.md](confession2/loss.md) | 告五　紛失 |
+| [confession2/register.md](confession2/register.md) | 告一　台帳 |
+| [confession2/retraction.md](confession2/retraction.md) | 告三　撤回 |
+| [confession2/storage.md](confession2/storage.md) | 告四　保管 |
+| [confession2/use.md](confession2/use.md) | 告二　利用 |
+
 ## contracts
 
 | 文書 | 題 |
@@ -748,6 +767,18 @@
 | [direction/orientation.md](direction/orientation.md) | 方二　向き |
 | [direction/rules.md](direction/rules.md) | 方一　方角 |
 
+## discipline
+
+| 文書 | 題 |
+|---|---|
+| [discipline/appeal.md](discipline/appeal.md) | 規四　上訴 |
+| [discipline/children.md](discipline/children.md) | 規六　子ども |
+| [discipline/enforcement.md](discipline/enforcement.md) | 規五　執行 |
+| [discipline/executives.md](discipline/executives.md) | 規七　幹部 |
+| [discipline/penalties.md](discipline/penalties.md) | 規三　罰 |
+| [discipline/rules.md](discipline/rules.md) | 規一　規則 |
+| [discipline/tribunal.md](discipline/tribunal.md) | 規二　審判 |
+
 ## dissolution
 
 | 文書 | 題 |
@@ -875,6 +906,17 @@
 |---|---|
 | [exam2/failure.md](exam2/failure.md) | 昇二　不合格通知 |
 | [exam2/promotion.md](exam2/promotion.md) | 昇一　昇格試験 |
+
+## exile
+
+| 文書 | 題 |
+|---|---|
+| [exile/contact.md](exile/contact.md) | 追四　連絡 |
+| [exile/expulsion.md](exile/expulsion.md) | 追一　追放 |
+| [exile/letter.md](exile/letter.md) | 追六　手紙 |
+| [exile/register.md](exile/register.md) | 追二　記録 |
+| [exile/return_request.md](exile/return_request.md) | 追三　申請 |
+| [exile/where.md](exile/where.md) | 追五　先 |
 
 ## family
 
@@ -1214,6 +1256,15 @@
 | [liturgy/initiation.md](liturgy/initiation.md) | 式三　入会 |
 | [liturgy/morning_fork.md](liturgy/morning_fork.md) | 式一　朝の分岐 |
 
+## loyalty
+
+| 文書 | 題 |
+|---|---|
+| [loyalty/check.md](loyalty/check.md) | 忠一　確認 |
+| [loyalty/evidence.md](loyalty/evidence.md) | 忠四　証拠 |
+| [loyalty/oath.md](loyalty/oath.md) | 忠二　宣誓 |
+| [loyalty/suspicion.md](loyalty/suspicion.md) | 忠三　疑い |
+
 ## magazine
 
 | 文書 | 題 |
@@ -1294,6 +1345,13 @@
 | [merch/catalogue.md](merch/catalogue.md) | 商一　目録 |
 | [merch/prices.md](merch/prices.md) | 商二　価格 |
 
+## mercy
+
+| 文書 | 題 |
+|---|---|
+| [mercy/procedure.md](mercy/procedure.md) | 赦一　手続 |
+| [mercy/refusal.md](mercy/refusal.md) | 赦二　拒否 |
+
 ## minor
 
 | 文書 | 題 |
@@ -1342,6 +1400,14 @@
 | [misc3/painting.md](misc3/painting.md) | 雑十四　絵 |
 | [misc3/repair.md](misc3/repair.md) | 雑十六　修理 |
 | [misc3/secret_list.md](misc3/secret_list.md) | 雑十五　目録 |
+
+## misc4
+
+| 文書 | 題 |
+|---|---|
+| [misc4/protection.md](misc4/protection.md) | 通二　保護 |
+| [misc4/retaliation.md](misc4/retaliation.md) | 通三　報復 |
+| [misc4/whistleblow.md](misc4/whistleblow.md) | 通一　通報 |
 
 ## missing
 
@@ -1613,6 +1679,17 @@
 | [protest/counter.md](protest/counter.md) | 抗二　対抗 |
 | [protest/leaflet.md](protest/leaflet.md) | 抗一　ビラ |
 
+## purge
+
+| 文書 | 題 |
+|---|---|
+| [purge/justification.md](purge/justification.md) | 粛五　正当化 |
+| [purge/reasons.md](purge/reasons.md) | 粛二　理由 |
+| [purge/record.md](purge/record.md) | 粛一　記録 |
+| [purge/return.md](purge/return.md) | 粛三　復帰 |
+| [purge/timeline.md](purge/timeline.md) | 粛六　年表 |
+| [purge/vacancy.md](purge/vacancy.md) | 粛四　空缺 |
+
 ## radio
 
 | 文書 | 題 |
@@ -1742,6 +1819,14 @@
 |---|---|
 | [reunion/after.md](reunion/after.md) | 再二　あと |
 | [reunion/minutes.md](reunion/minutes.md) | 再一　議事 |
+
+## reward
+
+| 文書 | 題 |
+|---|---|
+| [reward/register.md](reward/register.md) | 褒二　記録 |
+| [reward/rules.md](reward/rules.md) | 褒一　規則 |
+| [reward/words.md](reward/words.md) | 褒三　言葉 |
 
 ## riddles
 
@@ -1994,6 +2079,16 @@
 |---|---|
 | [summary/abridged.md](summary/abridged.md) | 要一　要約版 |
 | [summary/protest.md](summary/protest.md) | 要二　抗議 |
+
+## surveillance2
+
+| 文書 | 題 |
+|---|---|
+| [surveillance2/duty.md](surveillance2/duty.md) | 監一　義務 |
+| [surveillance2/fabrication.md](surveillance2/fabrication.md) | 監五　捏造 |
+| [surveillance2/form.md](surveillance2/form.md) | 監二　書式 |
+| [surveillance2/informant.md](surveillance2/informant.md) | 監三　密告 |
+| [surveillance2/silent.md](surveillance2/silent.md) | 監四　報告しない者 |
 
 ## switchboard
 
