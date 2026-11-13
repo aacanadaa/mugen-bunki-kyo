@@ -91,7 +91,7 @@
 ## 八　現在の構成
 
 <!-- STATS:BEGIN -->
-**現在の構成**　節 三百九十四、文書 千六百九、約 三百二 万字。以下は生成時点の集計である。
+**現在の構成**　節 三百九十八、文書 千六百五十五、約 三百十 万字。以下は生成時点の集計である。
 
 | 節 | 文書 |
 |---|---|
@@ -131,6 +131,7 @@
 | bookstore | 3 |
 | branch | 3 |
 | broadcast | 5 |
+| building | 8 |
 | bulletin | 3 |
 | bundles | 5 |
 | cache | 7 |
@@ -158,7 +159,7 @@
 | commentary | 13 |
 | comms | 4 |
 | comparison | 2 |
-| complaints | 2 |
+| complaints | 9 |
 | conference | 2 |
 | confession2 | 5 |
 | constitution | 7 |
@@ -197,7 +198,7 @@
 | dormant | 4 |
 | doubt_admin | 6 |
 | drafting | 5 |
-| dreams | 3 |
+| dreams | 8 |
 | drill | 1 |
 | duty | 4 |
 | dwellings | 6 |
@@ -238,6 +239,7 @@
 | garden | 1 |
 | gazetteer | 8 |
 | geography | 4 |
+| gestures | 6 |
 | gift_copy | 4 |
 | governance | 4 |
 | grandchildren | 3 |
@@ -400,6 +402,7 @@
 | reunion | 2 |
 | reward | 3 |
 | riddles | 1 |
+| rivals | 7 |
 | rollcall | 1 |
 | roster | 2 |
 | rules2 | 2 |
@@ -464,7 +467,7 @@
 | traces | 6 |
 | transaction | 10 |
 | transcripts | 3 |
-| translation | 2 |
+| translation | 9 |
 | translation2 | 2 |
 | trial | 4 |
 | truths | 6 |
@@ -482,6 +485,7 @@
 | visitors3 | 5 |
 | voice | 2 |
 | volunteers | 3 |
+| weather | 6 |
 | web | 2 |
 | welfare | 1 |
 | will_dispute | 2 |
