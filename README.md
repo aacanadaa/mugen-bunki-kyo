@@ -2,6 +2,7 @@
   <img src="https://count.getloli.com/get/@mugen-bunki-kyo?theme=moebooru" alt="訪問者数" />
 </p>
 
+
 # 群典 ── 無限分岐教・再建本文
 
 **千七百四十四の文書。四百七の節。約三百二十七万字。**
